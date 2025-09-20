@@ -1,0 +1,901 @@
+BHK,BHK_House_Type,Location,Price,Area_sqft,Furnishing_Status,Property_Seller,Amenities,Highlights
+2,Flat,Gachibowli,"32,000",1200 sq.ft,Semi furnished,KGF Rentals, Lift  •  Parking  •  Power Backup  •  Water Supply,
+3,Flat,Narsingi,"68,000",2335 sq.ft,Semi furnished,Datrika Srinivas,, 24x7 Security  •  ATM  •  Badminton Court  •  Basketball Court
+3,Flat,Madhapur,"45,000",2500 sq.ft,Semi furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Financial District,"65,000",1490 sq.ft,Fully furnished,MAHANYA PROPERTIES,, 24x7 Security  •  Children Play Area  •  Gymnasium  •  Swimming Pool
+3,Flat,Osman Nagar,"55,000",2584 sq.ft,Semi furnished,R Space Consultancy,, 24x7 Security  •  Badminton Court  •  Children Play Area  •  Close to Pubs & Restaurants
+1,Flat,Kondapur,"21,000",550 sq.ft,Fully furnished,Shreyans,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Mall
+2,Flat,Madhapur,"40,000",1109 sq.ft,Fully furnished,N Chiranjeevi, Parking,
+2,Flat,Nacharam,"24,015",1431 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kondapur,"40,000",1500 sq.ft,Semi furnished,User, Lift  •  Power Backup,
+3,Flat,Kukatpally,"50,000",1980 sq.ft,Semi furnished,Harsha Kumar N, Pool  •  Gym  •  Lift  •  Parking,
+2,Flat,Narsingi,"55,000",1370 sq.ft,Semi furnished,Mamta Shetty, Parking  •  Gas Pipeline,
+3,Flat,Madhapur,"55,000",2000 sq.ft,Fully furnished,Srinunayak10, Lift  •  Parking  •  Power Backup  •  Water Supply,
+1,Flat,Kondapur,"14,500",758 sq.ft,Un-furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Cycling & Jogging Track
+5,Flat,Kondapur,"25,000",900 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  ATM  •  Close to Bus Stop  •  Close to Hospital
+2,Flat,Kondapur,"38,000",1280 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Bus Stop  •  Close to Grocery Stores
+1,Flat,Yousufguda,"18,990",980 sq.ft,Semi furnished,Hyderabad Rentals,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+3,Flat,Nacharam,"32,000",1925 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Gachibowli,"90,000",2105 sq.ft,Semi furnished,SRI VARAHI,, Gymnasium  •  Power Backup  •  Swimming Pool  •  24x7 Security
+4,Villa,Velimela,"85,000",3580 sq.ft,Fully furnished,H3 Realty,, 24x7 Security  •  Lift  •  School Proximity  •  Power Backup
+1,Flat,Ameerpet,"11,600",607 sq.ft,Semi furnished,Pasha,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+3,Flat,Kokapet,"65,000",1700 sq.ft,Semi furnished,Suchitha, Pool   •  Gym  •  Lift  •  Parking,
+5,Flat,Nallagandla,"55,000",1530 sq.ft,Semi furnished,Dinesh, Pool  •  Gym  •  Lift  •  Parking,
+1,Flat,Kondapur,"23,000",1453 sq.ft,Fully furnished,Nani,, 24x7 Security  •  Close to ATM  •  Close to Grocery Stores  •  Close to Mall
+3,Flat,Kondapur,"43,000",2000 sq.ft,Semi furnished,M R RENTALS,, 24 Hours Concierge  •  24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores
+1,Flat,Sanjeeva Reddy Nagar,"12,000",600 sq.ft,Semi furnished,Mujahid,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Marble
+3,Flat,Hitech City,"60,000",2000 sq.ft,Semi furnished,SMR Real Estate,, 24x7 Security  •  Business Center  •  Close to Mall  •  Close to Movie Theatres
+2,Flat,Madhapur,"30,000",1200 sq.ft,Semi furnished,Anil, Lift  •  Parking  •  Water Supply,
+4,Flat,Kokapet,"1,30,000",3333 sq.ft,Semi furnished,Upbricks, Pool  •  Gym  •  Lift  •  Parking,
+1,Flat,Khaja Guda,"40,000",700 sq.ft,Fully furnished,Keetown Realty, Lift  •  Parking  •  Water Supply,
+1,Flat,Kondapur,"22,000",650 sq.ft,Fully furnished,Ram Laxman Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Madhapur,"43,000",1200 sq.ft,Fully furnished,N Chiranjeevi, Parking,
+2,Flat,Nacharam,"24,015",1431 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Madhapur,"34,000",1150 sq.ft,Semi furnished,N Chiranjeevi, Parking,
+2,Flat,Narsingi,"55,000",1370 sq.ft,Semi furnished,Mamta Shetty, Parking  •  Gas Pipeline,
+2,Flat,Narsingi,"55,000",1370 sq.ft,Semi furnished,Mamta Shetty, Pool  •  Gym  •  Lift  •  Parking,
+3,Flat,Manchirevula,"1,20,000",3188 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Nacharam,"32,011",1925 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Financial District,"45,000",1725 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"45,000",2275 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Shaikpet,"2,50,014",5219 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Tellapur,"48,000",1931 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Hitech City,"1,50,012",3685 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Hitech City,"90,000",2750 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Kokapet,"4,50,011",9166 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Financial District,"60,011",1604 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+1,Flat,Kondapur,"14,500",758 sq.ft,Un-furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Cycling & Jogging Track
+3,Flat,Madhapur,"55,000",2000 sq.ft,Fully furnished,Srinunayak10, Lift  •  Parking  •  Power Backup  •  Water Supply,
+3,Flat,Kukatpally,"67,000",2356 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"73,000",2560 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"62,011",2663 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Financial District,"50,000",1604 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Serilingampally,"48,000",1638 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"62,000",2381 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Manchirevula,"1,30,015",4166 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Kondapur,"25,000",900 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  ATM  •  Close to Bus Stop  •  Close to Hospital
+3,Flat,Kukatpally,"52,000",2119 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Borabanda,"65,000",2063 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Serilingampally,"50,000",1813 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kondapur,"55,000",2250 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Kondapur,"60,000",1613 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Madhapur,"45,000",1210 sq.ft,Fully furnished,N Chiranjeevi, Parking,
+5,Flat,Hitech City,"1,25,000",3893 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"75,000",2655 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Peeramcheru,"90,013",4250 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kondapur,"1,00,000",2879 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Gachibowli,"1,10,000",4350 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Financial District,"70,000",2950 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Nallagandla,"53,000",1931 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Nallagandla,"60,000",2063 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Puppalaguda,"65,000",2438 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Manikonda,"62,010",1675 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Kondapur,"38,000",1280 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Bus Stop  •  Close to Grocery Stores
+4,Flat,Kokapet,"3,50,000",7916 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"65,000",2381 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Manchirevula,"1,80,000",4166 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Osman Nagar,"55,000",2300 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+1,Flat,Yousufguda,"18,990",980 sq.ft,Semi furnished,Hyderabad Rentals,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+1,Flat,Madhapur,"26,000",680 sq.ft,Fully furnished,Harsha Rentals,, Close to Bus Stop  •  Close to Grocery Stores  •  Good Cross Ventilation  •  Lift
+1,Flat,Madhapur,"30,000",801 sq.ft,Fully furnished,N Chiranjeevi, Parking,
+3,Flat,Nacharam,"32,000",1925 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+1,Flat,Madhapur,"23,000",500 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  Close to Mall  •  Close to Movie Theatres  •  Closer to Pharmacy
+5,Flat,Hitech City,"65,000",1800 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Financial District,"60,000",1604 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"75,011",2655 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Nallagandla,"45,014",1719 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"62,011",2663 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"62,000",2381 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Financial District,"50,000",1604 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Nacharam,"24,000",1431 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Hitech City,"90,000",2750 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Tellapur,"48,000",1931 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kondapur,"55,000",2250 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Shaikpet,"2,50,017",5219 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kukatpally,"52,000",2119 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"73,000",2560 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Osman Nagar,"55,000",2300 sq.ft,Semi furnished,APM,, Utility Shops  •  Gymnasium  •  Swimming Pool  •  School Proximity
+2,Flat,Kondapur,"60,000",1613 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Nallagandla,"60,000",2063 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Serilingampally,"50,000",1813 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Manikonda,"62,015",1675 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Borabanda,"65,011",2063 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Gachibowli,"1,10,000",4350 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kondapur,"1,00,015",2879 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Puppalaguda,"65,000",2438 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kukatpally,"67,015",2356 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Peeramcheru,"90,012",4250 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Manchirevula,"1,80,014",4166 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Manchirevula,"1,30,000",4166 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Manchirevula,"1,20,000",3188 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Nallagandla,"53,000",1931 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Hitech City,"1,50,000",3685 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Kokapet,"4,50,011",9166 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Kokapet,"3,50,000",7916 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Financial District,"70,012",2950 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Kokapet,"76,000",1506 sq.ft,Semi furnished,MAHANYA PROPERTIES,, 24x7 Security  •  Basketball Court  •  Badminton Court  •  Children Play Area
+4,Villa,Manchirevula,"2,50,000",6000 sq.ft,Semi furnished,MAHANYA PROPERTIES,, 24x7 Security  •  Badminton Court  •  Children Play Area  •  Swimming Pool
+3,Flat,Gachibowli,"90,000",2105 sq.ft,Semi furnished,SRI VARAHI,, Gymnasium  •  Power Backup  •  Swimming Pool  •  24x7 Security
+4,Flat,Manikonda,"78,000",2300 sq.ft,Semi furnished,SRI VARAHI,, Gymnasium  •  Power Backup  •  Swimming Pool  •  24x7 Security
+4,Flat,Gachibowli,"1,10,000",2000 sq.ft,Semi furnished,MAHANYA PROPERTIES,, 24 Hours Concierge  •  Swimming Pool  •  Sports Area  •  Security Guards
+4,Villa,Velimela,"85,000",3580 sq.ft,Fully furnished,H3 Realty,, 24x7 Security  •  Lift  •  School Proximity  •  Power Backup
+3,Flat,Kokapet,"60,000",2419 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Financial District,"50,000",2100 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Financial District,"45,000",1725 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+1,Flat,Ameerpet,"11,600",607 sq.ft,Semi furnished,Pasha,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+3,Flat,Narsingi,"75,000",1750 sq.ft,Semi furnished,Mamta Shetty, Pool  •  Gym  •  Lift  •  Parking,
+3,Flat,Kothaguda,"60,000",2313 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Serilingampally,"50,000",1813 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Gachibowli,"82,000",2105 sq.ft,Semi furnished,SRI VARAHI,, 24x7 Security  •  Gymnasium  •  Power Backup  •  Swimming Pool
+3,Flat,Serilingampally,"50,000",2108 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Osman Nagar,"43,000",1631 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"75,011",2655 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kukatpally,"50,000",1813 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Ramachandra Puram,"40,000",1975 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kondapur,"1,00,000",2879 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Shaikpet,"2,50,010",5219 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Miyapur,"38,000",1625 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Nizampet,"55,012",2300 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Hafeezpet,"40,000",1500 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Kokapet,"4,50,000",9166 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Financial District,"60,000",3250 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Nallagandla,"45,000",1719 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kondapur,"60,000",2319 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kondapur,"55,000",2250 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Financial District,"50,000",1604 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Gachibowli,"1,10,000",4350 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Serilingampally,"48,000",1638 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Narsingi,"65,000",2919 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Mokila,"60,000",4238 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"62,000",2663 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Hitech City,"65,000",1800 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Financial District,"70,014",2950 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Manchirevula,"1,30,000",4166 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Nacharam,"32,000",1925 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Financial District,"60,000",1604 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Erragadda,"52,000",2241 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kondapur,"60,000",2444 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Manchirevula,"1,80,000",4166 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Miyapur,"45,000",2013 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"45,000",2275 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Hitech City,"90,000",2750 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Hitech City,"1,50,000",3685 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Puppalaguda,"65,014",2438 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Nacharam,"24,000",1431 sq.ft,Semi furnished,Azuro.in,, Utility Shops  •  Gymnasium  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"62,000",2381 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Manikonda,"62,011",1675 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Borabanda,"65,000",2063 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Kondapur,"60,000",1613 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Tellapur,"48,000",1931 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Manchirevula,"1,20,000",3188 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Nallagandla,"53,000",1931 sq.ft,Semi furnished,Azuro.in,, Utility Shops  •  Gymnasium  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"73,000",2560 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Peeramcheru,"90,011",4250 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Nallagandla,"60,010",2063 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Osman Nagar,"55,000",2300 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"65,015",2381 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kukatpally,"67,020",2356 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Hitech City,"1,25,000",3893 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Kokapet,"3,50,000",7916 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Kokapet,"4,50,012",9166 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kukatpally,"52,000",2119 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Shilpa Hills,"60,000",2485 sq.ft,Semi furnished,R Space Consultancy,, 24x7 Security  •  Children Play Area  •  Close to Hospital  •  Close to Airport
+3,Flat,Financial District,"50,000",2100 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Kondapur,"2,00,000",3300 sq.ft,Fully furnished,R Space Consultancy,, 24x7 Security  •  Business Center  •  Children Play Area  •  Close to Hospital
+3,Flat,Kokapet,"73,000",2560 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Serilingampally,"50,000",1813 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Serilingampally,"48,000",1638 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Financial District,"60,000",3250 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Gachibowli,"1,10,000",4350 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kondapur,"60,014",2444 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kothaguda,"60,000",2313 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kondapur,"1,00,000",2879 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Ramachandra Puram,"40,000",1975 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Mokila,"60,000",4238 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kondapur,"55,000",2250 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Nallagandla,"45,000",1719 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Kokapet,"1,20,014",4641 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Kokapet,"4,50,000",9166 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+1,Flat,Madhapur,"25,000",701 sq.ft,Fully furnished,N Chiranjeevi, Parking,
+3,Flat,Kukatpally,"52,000",2119 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Financial District,"50,000",1604 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kukatpally,"50,000",1813 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Kokapet,"4,50,000",9166 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Nacharam,"32,000",1925 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Kokapet,"3,50,000",7916 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Borabanda,"65,000",2063 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Financial District,"60,000",1604 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"45,000",2275 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Kondapur,"60,000",1613 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Miyapur,"45,000",2013 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Hitech City,"65,000",1800 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Narsingi,"65,000",2919 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Nizampet,"55,012",2300 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Hafeezpet,"40,000",1500 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Nacharam,"24,014",1431 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Miyapur,"38,000",1625 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"62,000",2663 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"62,000",2381 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Financial District,"70,000",2950 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Shaikpet,"2,50,011",5219 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"75,000",2655 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"65,000",2381 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kukatpally,"67,012",2356 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Manchirevula,"1,20,000",3188 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Nallagandla,"53,000",1931 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Hitech City,"90,000",2750 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"60,013",2419 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Peeramcheru,"90,014",4250 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Nallagandla,"60,000",2063 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Hitech City,"1,50,000",3685 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Puppalaguda,"65,011",2438 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Hitech City,"1,25,000",3893 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Erragadda,"52,000",2241 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Serilingampally,"50,015",2108 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kondapur,"60,000",2319 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Manikonda,"62,000",1675 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+5,Flat,Tellapur,"48,000",1931 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Manchirevula,"1,30,000",4166 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+4,Flat,Manchirevula,"1,80,000",4166 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Osman Nagar,"55,000",2300 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Osman Nagar,"43,000",1631 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Kokapet,"65,000",1700 sq.ft,Semi furnished,Suchitha, Pool  •  Gym  •  Lift  •  Parking,
+3,Flat,Gachibowli,"62,000",2160 sq.ft,Semi furnished,Suchitha, Pool  •  Gym  •  Lift  •  Parking,
+4,Flat,Kondapur,"85,000",2835 sq.ft,Semi furnished,SRI VARAHI,, 24x7 Security  •  Power Backup  •  Gymnasium  •  Swimming Pool
+3,Flat,Madhapur,"40,000",1600 sq.ft,Semi furnished,N Chiranjeevi, Parking,
+3,Flat,Madhapur,"40,000",1601 sq.ft,Semi furnished,N Chiranjeevi, Parking,
+2,Flat,Kondapur,"40,000",1250 sq.ft,Semi furnished,KGF Rentals, Lift  •  Parking  •  Power Backup  •  Water Supply,
+3,Flat,Madhapur,"55,000",1700 sq.ft,Semi furnished,N Chiranjeevi, Parking,
+3,Flat,Kokapet,"72,000",1860 sq.ft,Semi furnished,MAHANYA PROPERTIES,, 24x7 Security  •  Amphitheatre  •  Badminton Court  •  Children Play Area
+2,Flat,Serilingampally,"47,000",1297 sq.ft,Semi furnished,Suchitha, Pool  •  Gym  •  Lift  •  Parking,
+3,Flat,Serilingampally,"65,000",1500 sq.ft,Semi furnished,Suchitha, Pool  •  Gym  •  Lift  •  Parking,
+1,Flat,Serilingampally,"19,500",700 sq.ft,Semi furnished,KGF Rentals, Lift  •  Parking  •  Water Supply,
+5,Flat,Nallagandla,"55,000",1530 sq.ft,Semi furnished,Dinesh, Pool  •  Gym  •  Lift  •  Parking,
+3,Flat,Nallagandla,"75,000",1875 sq.ft,Semi furnished,Dinesh, Pool  •  Gym  •  Lift  •  Parking,
+2,Flat,Kondapur,"33,000",1200 sq.ft,Fully furnished,KGF Rentals, Lift  •  Parking  •  Water Supply,
+2,Flat,Kondapur,"34,000",1250 sq.ft,Semi furnished,KGF Rentals, Lift  •  Parking  •  Water Supply,
+3,Flat,Manikonda,"64,000",1600 sq.ft,Semi furnished,SRI VARAHI,, 24x7 Security  •  Gymnasium  •  Power Backup  •  Swimming Pool
+1,Flat,Kondapur,"26,000",600 sq.ft,Fully furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Narsingi,"55,000",1300 sq.ft,Semi furnished,Suchitha, Pool  •  Gym  •  Lift  •  Parking,
+1,Flat,Kondapur,"27,000",650 sq.ft,Fully furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+3,Flat,Kokapet,"75,000",2048 sq.ft,Semi furnished,MAHANYA PROPERTIES,, 24x7 Security  •  Gymnasium  •  Kid's Pool  •  Swimming Pool
+3,Flat,Narsingi,"60,000",1715 sq.ft,Semi furnished,Suchitha, Parking,
+3,Flat,Serilingampally,"64,000",1650 sq.ft,Semi furnished,Suchitha, Pool  •  Gym  •  Lift  •  Parking,
+2,Flat,Serilingampally,"52,000",1297 sq.ft,Fully furnished,Suchitha, Pool  •  Gym  •  Lift  •  Parking,
+5,Flat,Tellapur,"45,000",1505 sq.ft,Semi furnished,Suchitha, Pool  •  Gym  •  Lift  •  Parking,
+2,Flat,Madhapur,"42,000",1400 sq.ft,Fully furnished,Srinunayak10, Lift  •  Parking  •  Power Backup  •  Pet Allowed,
+3,Flat,Tellapur,"55,000",1840 sq.ft,Semi furnished,Suchitha, Pool  •  Gym  •  Lift  •  Parking,
+3,Flat,Serilingampally,"65,000",1650 sq.ft,Semi furnished,Suchitha, Pool  •  Gym  •  Lift  •  Parking,
+3,Flat,Kothaguda,"65,000",2500 sq.ft,Fully furnished,Srinunayak10, Lift  •  Parking  •  Power Backup  •  Pet Allowed,
+2,Flat,Kondapur,"30,599",1150 sq.ft,Semi furnished,Shreyans,, 24x7 Security  •  Close to Grocery Stores  •  Close to Bus Stop  •  Close to Mall
+1,Flat,Kondapur,"23,000",1453 sq.ft,Fully furnished,Nani,, 24x7 Security  •  Close to ATM  •  Close to Grocery Stores  •  Close to Mall
+2,Flat,Kondapur,"23,000",1673 sq.ft,Semi furnished,Nani,, Close to Airport  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+,Flat,Kondapur,"17,500",165 sq.ft,Fully furnished,Nani,, Close to Bus Stop  •  Close to Hospital  •  Close to Mall  •  Copper Wiring
+2,Flat,Kondapur,"58,000",1560 sq.ft,Fully furnished,Nani,, Ceramic Tiles  •  Close to Airport  •  Close to Bus Stop  •  Close to Hospital
+1,Flat,Kondapur,"25,000",596 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Bus Stop  •  Close to Grocery Stores
+1,Flat,Kondapur,"25,000",601 sq.ft,Fully furnished,Harsha Rentals,, Good Cross Ventilation  •  Close to Grocery Stores  •  Close to Bus Stop  •  24x7 Security
+1,Flat,Kondapur,"17,000",800 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Movie Theatres
+2,Flat,Kondapur,"24,000",1150 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Movie Theatres  •  Closer to Pharmacy
+2,Flat,Madhapur,"38,000",1150 sq.ft,Fully furnished,Ravi Kumar,, 24x7 Security  •  Close to Bus Stop  •  Close to Hospital  •  Close to Mall
+2,Flat,Sanjeeva Reddy Nagar,"22,000",1085 sq.ft,Semi furnished,Hyderabad Rentals,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+2,Flat,Kondapur,"30,000",1200 sq.ft,Semi furnished,KGF Rentals, Lift  •  Parking  •  Power Backup  •  Water Supply,
+1,Flat,Kondapur,"19,499",700 sq.ft,Semi furnished,KGF Rentals, Lift  •  Parking  •  Water Supply,
+3,Flat,Madhapur,"50,000",2000 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  Closer to Pharmacy  •  Cycling & Jogging Track  •  East Facing BedRoom
+5,Flat,Madhapur,"75,000",3200 sq.ft,Fully furnished,Srinunayak10, Lift  •  Parking  •  Intercom  •  Kids Area,
+3,Flat,Madhapur,"48,000",2000 sq.ft,Semi furnished,Srinunayak10, Lift  •  Parking  •  Power Backup  •  Water Supply,
+3,Flat,Madhapur,"50,000",1890 sq.ft,Semi furnished,Harsha Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Good Cross Ventilation  •  Lift
+3,Flat,Madhapur,"50,000",1850 sq.ft,Semi furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Grocery Stores  •  Good Cross Ventilation
+3,Flat,Kondapur,"43,000",2000 sq.ft,Semi furnished,M R RENTALS,, 24 Hours Concierge  •  24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores
+1,Flat,Sanjeeva Reddy Nagar,"12,000",600 sq.ft,Semi furnished,Mujahid,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Marble
+1,Flat,Madhapur,"23,000",600 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Jain Temple
+2,Flat,Serilingampally,"34,000",1150 sq.ft,Semi furnished,Shreyans,, 24x7 Security  •  Close to Grocery Stores  •  Close to Bus Stop  •  Close to Hospital
+2,Flat,Madhapur,"36,000",1210 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Bus Stop  •  Close to Pubs & Restaurants
+2,Flat,Madhapur,"38,000",1209 sq.ft,Fully furnished,Harsha Rentals,, Children Play Area  •  Close to Bus Stop  •  Close to Grocery Stores  •  Good Cross Ventilation
+2,Flat,Madhapur,"38,500",1350 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Grocery Stores  •  Good Cross Ventilation
+1,Flat,Sanjeeva Reddy Nagar,"11,500",550 sq.ft,Semi furnished,Mujahid, Lift  •  Parking  •  Pet Allowed,
+3,Flat,Hitech City,"60,000",2000 sq.ft,Semi furnished,SMR Real Estate,, 24x7 Security  •  Business Center  •  Close to Mall  •  Close to Movie Theatres
+1,Flat,Yousufguda,"11,000",600 sq.ft,Semi furnished,Mujahid,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+2,Flat,Kondapur,"40,000",1350 sq.ft,Fully furnished,Ravi Kumar,, 24x7 Security  •  Close to Jain Temple  •  Close to Mall  •  Closer to Pharmacy
+2,Flat,Madhapur,"38,000",1250 sq.ft,Fully furnished,Mudavath Pushkar,, Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Jain Temple
+2,Flat,Madhapur,"35,000",1215 sq.ft,Semi furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Bus Stop  •  Close to Grocery Stores
+2,Flat,Madhapur,"45,000",1250 sq.ft,Fully furnished,Ravi Kumar,, 24x7 Security  •  Close to Jain Temple  •  Close to Mall  •  Close to Movie Theatres
+2,Flat,Madhapur,"30,000",1200 sq.ft,Semi furnished,Anil, Lift  •  Parking  •  Water Supply,
+2,Flat,Madhapur,"32,000",1200 sq.ft,Semi furnished,Anil, Lift  •  Parking  •  Water Supply,
+1,Flat,Madhapur,"22,000",750 sq.ft,Semi furnished,Anil, Lift  •  Parking  •  Water Supply,
+1,Flat,Madhapur,"18,000",800 sq.ft,Un-furnished,Anil, Lift  •  Parking  •  Water Supply,
+1,Flat,Madhapur,"17,500",650 sq.ft,Un-furnished,Anil, Lift  •  Parking  •  Water Supply,
+1,Flat,Madhapur,"25,000",600 sq.ft,Fully furnished,Anil, Lift  •  Parking  •  Water Supply,
+4,Flat,Kokapet,"1,30,000",3333 sq.ft,Semi furnished,Upbricks, Pool  •  Gym  •  Lift  •  Parking,
+4,Villa,Kokapet,"3,10,000",6500 sq.ft,Semi furnished,Upbricks, Pool  •  Gym  •  Parking  •  Intercom,
+4,Villa,Financial District,"4,00,000",6500 sq.ft,Semi furnished,Upbricks, Pool  •  Gym  •  Parking  •  Power Backup,
+2,Flat,Serilingampally,"45,000",1204 sq.ft,Semi furnished,MAHANYA PROPERTIES,, 24x7 Security  •  Children Play Area  •  Close to Railway Station  •  Power Backup
+3,Flat,Serilingampally,"63,000",1500 sq.ft,Semi furnished,Suchitha, Pool  •  Gym  •  Lift  •  Parking,
+3,Flat,Narsingi,"85,000",2335 sq.ft,Semi furnished,MAHANYA PROPERTIES,, 24x7 Security  •  Children Play Area  •  Gymnasium  •  Indoor Game Room
+2,Flat,Financial District,"46,000",1400 sq.ft,Fully furnished,Datrika Srinivas,, 24x7 Security  •  ATM  •  Badminton Court  •  Basketball Court
+2,Flat,Narsingi,"50,000",1370 sq.ft,Semi furnished,Datrika Srinivas,, 24 Hours Concierge  •  24x7 Security  •  Aerobics Room  •  Amphitheatre
+2,Flat,Financial District,"40,000",1400 sq.ft,Semi furnished,Datrika Srinivas,, 24x7 Security  •  ATM  •  Badminton Court  •  Basketball Court
+1,Flat,Khaja Guda,"40,000",700 sq.ft,Fully furnished,Keetown Realty, Lift  •  Parking  •  Water Supply,
+1,Flat,Kondapur,"22,000",650 sq.ft,Fully furnished,Ram Laxman Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+3,Flat,Kondapur,"39,000",1860 sq.ft,Semi furnished,Shreyans,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Mall
+1,Flat,Kondapur,"20,000",650 sq.ft,Fully furnished,Shreyans,, 24x7 Security  •  Close to Bus Stop  •  Close to Hospital  •  Close to Mall
+1,Flat,Kondapur,"27,000",650 sq.ft,Fully furnished,KGF Rentals, Parking  •  Power Backup  •  Water Supply,
+3,Flat,Kondapur,"38,000",1950 sq.ft,Semi furnished,Ram Laxman Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Kondapur,"38,000",1453 sq.ft,Fully furnished,Nani,, 24x7 Security  •  Close to Bus Stop  •  Close to Hospital  •  Close to Movie Theatres
+1,Flat,Gachibowli,"40,000",700 sq.ft,Fully furnished,Keetown Realty, Lift  •  Parking  •  Power Backup  •  Water Supply,
+1,Flat,Kondapur,"25,000",800 sq.ft,Fully furnished,Nani,, 24x7 Security  •  Close to Bus Stop  •  Close to Hospital  •  Close to Mall
+3,Flat,Khaja Guda,"80,000",1836 sq.ft,Fully furnished,Keetown Realty, Pool  •  Gym  •  Lift  •  Parking,
+2,Flat,Kondapur,"24,000",1653 sq.ft,Semi furnished,Nani,, Close to Bus Stop  •  Close to Hospital  •  Close to Mall  •  Close to Airport
+2,Flat,Hitech City,"60,000",1613 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Kokapet,"50,000",1638 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+1,Flat,Kondapur,"18,050",1000 sq.ft,Semi furnished,Tirupathi Rentals,, 24x7 Security  •  24 Hours Concierge  •  Lift  •  Power Backup
+1,Flat,Kondapur,"17,000",1500 sq.ft,Semi furnished,Tirupathi Rentals,, 24x7 Security  •  24 Hours Concierge  •  Close to Bus Stop  •  Close to Mall
+1,Flat,Hafeezpet,"25,000",800 sq.ft,Fully furnished,Nani,, 24x7 Security  •  Close to Hospital  •  Close to Bus Stop  •  Close to Mall
+1,Flat,Kondapur,"17,000",1500 sq.ft,Semi furnished,Tirupathi Rentals,, 24x7 Security  •  24 Hours Concierge  •  Close to Mall  •  Close to Hospital
+1,Flat,Kondapur,"14,500",1234 sq.ft,Semi furnished,Nani,, 24x7 Security  •  Close to Bus Stop  •  Close to Hospital  •  Close to Mall
+,Flat,Kondapur,"11,000",1243 sq.ft,Un-furnished,Nani, Parking,
+1,Flat,Kondapur,"17,000",1200 sq.ft,Semi furnished,Tirupathi Rentals,, 24 Hours Concierge  •  24x7 Security  •  Lift  •  Power Backup
+1,Flat,Kondapur,"22,000",1352 sq.ft,Fully furnished,Nani,, 24x7 Security  •  Close to Bus Stop  •  Close to Hospital  •  Close to Mall
+1,Flat,Yousufguda,"11,800",540 sq.ft,Un-furnished,MS RENTAL SERVICE CONSULTANT,, Close to Bus Stop  •  Close to Grocery Stores  •  East Facing Living Room  •  Entrance on East Side
+1,Flat,Hafeezpet,"15,000",480 sq.ft,Un-furnished,Nani,, 24x7 Security  •  Close to Bus Stop  •  Close to Hospital  •  Close to Mall
+1,Flat,Ameerpet,"12,400",510 sq.ft,Un-furnished,MS RENTAL SERVICE CONSULTANT,, 24x7 Security  •  Business Center  •  Close to Bus Stop  •  Close to Grocery Stores
+2,Flat,Hafeezpet,"28,000",800 sq.ft,Semi furnished,Nani,, 24x7 Security  •  Close to Bus Stop  •  Close to Hospital  •  Close to Mall
+1,Flat,Madhapur,"25,000",900 sq.ft,Semi furnished,Kalyan, Lift  •  Power Backup  •  Water Supply,
+2,Flat,Nallagandla,"45,000",1719 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+2,Flat,Sanjeeva Reddy Nagar,"25,000",1050 sq.ft,Semi furnished,Prime Property,, 24x7 Security  •  Business Center  •  Close to Bus Stop  •  Close to Grocery Stores
+1,Flat,Hafeezpet,"21,000",800 sq.ft,Fully furnished,Tirupathi Rentals,, 24x7 Security  •  East Facing Living Room  •  Lift  •  Power Backup
+1,Flat,Ameerpet,"11,800",520 sq.ft,Un-furnished,MS RENTAL SERVICE CONSULTANT,, 24x7 Security  •  Business Center  •  Children Play Area  •  Close to Hospital
+1,Flat,Hafeezpet,"13,520",800 sq.ft,Un-furnished,Tirupathi Rentals,, 24x7 Security  •  24 Hours Concierge  •  Lift  •  Power Backup
+1,Flat,Kondapur,"18,400",800 sq.ft,Semi furnished,Tirupathi Rentals,, 24 Hours Concierge  •  24x7 Security  •  Lift  •  Power Backup
+3,Flat,Kondapur,"39,000",1982 sq.ft,Fully furnished,Nani,, 24x7 Security  •  Close to ATM  •  Close to Hospital  •  Close to Mall
+2,Flat,Kondapur,"28,000",1542 sq.ft,Semi furnished,Nani,, 24x7 Security  •  Close to Grocery Stores  •  Close to Jain Temple  •  Close to Mall
+1,Flat,Kondapur,"17,000",1200 sq.ft,Semi furnished,Tirupathi Rentals,, 24x7 Security  •  Close to Mall  •  North West Facing Living Room  •  Pooja Room in East Side
+1,Flat,Ameerpet,"13,400",515 sq.ft,Un-furnished,MS RENTAL SERVICE CONSULTANT,, 24x7 Security  •  ATM  •  Business Center  •  Children Play Area
+1,Flat,Kondapur,"21,000",185 sq.ft,Semi furnished,Nani,, Close to Grocery Stores  •  Close to Hospital  •  Close to Mall  •  Close to ATM
+3,Flat,Rai Durg,"2,25,000",2595 sq.ft,Semi furnished,Upbricks, Pool  •  Gym  •  Lift  •  Parking,
+5,Flat,Kothaguda,"65,000",1800 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+1,Flat,Kondapur,"18,500",800 sq.ft,Semi furnished,Tirupathi Rentals,, 24 Hours Concierge  •  24x7 Security  •  Lift  •  Power Backup
+3,Flat,Kondapur,"45,000",1780 sq.ft,Fully furnished,Tirupathi Rentals,, 24x7 Security  •  East Facing BedRoom  •  Lift  •  Power Backup
+1,Flat,Ameerpet,"16,000",528 sq.ft,Semi furnished,MS RENTAL SERVICE CONSULTANT,, 24x7 Security  •  Children Play Area  •  Close to Grocery Stores  •  Business Center
+4,Villa,Velimela,"35,000",2250 sq.ft,Semi furnished,Kalyan,, 24x7 Security  •  Children Play Area  •  Cricket Pitch  •  Gymnasium
+3,Flat,Ameerpet,"36,000",1900 sq.ft,Semi furnished,Prime Property,, Close to Bus Stop  •  Golf Course  •  Good Cross Ventilation  •  Gymnasium
+1,Flat,Madhapur,"23,000",600 sq.ft,Fully furnished,Ravi Kumar,, 24x7 Security  •  Close to Mall  •  Cycling & Jogging Track  •  Close to Movie Theatres
+3,Flat,Kokapet,"60,000",2419 sq.ft,Semi furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+1,Flat,Kondapur,"17,000",800 sq.ft,Un-furnished,Tirupathi Rentals,, 24x7 Security  •  24 Hours Concierge  •  Close to Bus Stop  •  Close to Mall
+4,Villa,Serilingampally,"3,75,000",6300 sq.ft,Semi furnished,Upbricks, Pool  •  Gym  •  Lift  •  Parking,
+3,Flat,Financial District,"80,000",1306 sq.ft,Fully furnished,MAHANYA PROPERTIES,, 24x7 Security  •  ATM  •  Badminton Court  •  Swimming Pool
+1,Flat,Kondapur,"25,000",1500 sq.ft,Semi furnished,Tirupathi Rentals,, 24 Hours Concierge  •  24x7 Security  •  Lift  •  Power Backup
+3,Flat,Madhapur,"45,000",1850 sq.ft,Semi furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Kondapur,"16,800",800 sq.ft,Semi furnished,Tirupathi Rentals,, 24x7 Security  •  24 Hours Concierge  •  Close to Mall  •  Lift
+3,Flat,Kondapur,"45,000",2500 sq.ft,Semi furnished,Tirupathi Rentals,, 24x7 Security  •  East Facing Living Room  •  Lift  •  Power Backup
+2,Flat,Sanjeeva Reddy Nagar,"16,800",1011 sq.ft,Un-furnished,MS RENTAL SERVICE CONSULTANT,, 24x7 Security  •  Business Center  •  Close to Grocery Stores  •  Closer to Pharmacy
+2,Flat,Kondapur,"27,000",1250 sq.ft,Un-furnished,SHIVA, Parking,
+2,Flat,Madhapur,"37,999",1100 sq.ft,Fully furnished,M R RENTALS,, 24 Hours Concierge  •  24x7 Security  •  Business Center  •  Close to Grocery Stores
+3,Flat,Madhapur,"45,000",1650 sq.ft,Semi furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Kondapur,"29,000",1340 sq.ft,Semi furnished,SHIVA, Parking,
+2,Flat,Madhapur,"36,000",1250 sq.ft,Semi furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Gachibowli,"26,000",600 sq.ft,Fully furnished,Ravi Kumar,, 24x7 Security  •  Children Play Area  •  Close to Grocery Stores  •  Close to Bus Stop
+1,Flat,Kondapur,"20,000",800 sq.ft,Semi furnished,SHIVA, Parking,
+1,Flat,Kondapur,"18,000",500 sq.ft,Semi furnished,SHIVA,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Mall
+2,Flat,Sanjeeva Reddy Nagar,"17,000",1010 sq.ft,Un-furnished,MS RENTAL SERVICE CONSULTANT,, 24x7 Security  •  Business Center  •  Cycling & Jogging Track  •  Children Play Area
+1,Flat,Kondapur,"24,500",800 sq.ft,Fully furnished,SHIVA, Parking,
+3,Flat,Kondapur,"40,000",1800 sq.ft,Semi furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Sanjeeva Reddy Nagar,"13,800",520 sq.ft,Semi furnished,MS RENTAL SERVICE CONSULTANT,, 24x7 Security  •  Business Center  •  Ceramic Tiles  •  Close to Bus Stop
+1,Flat,Sanjeeva Reddy Nagar,"11,950",515 sq.ft,Un-furnished,MS RENTAL SERVICE CONSULTANT,, 24x7 Security  •  ATM  •  Business Center  •  Close to Grocery Stores
+1,Flat,Madhapur,"15,000",750 sq.ft,Un-furnished,Anil, Parking,
+1,Flat,Madhapur,"14,000",600 sq.ft,Un-furnished,Anil, Parking,
+2,Flat,Hitech City,"60,000",1613 sq.ft,Fully furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+1,Flat,Sanjeeva Reddy Nagar,"11,850",528 sq.ft,Un-furnished,MS RENTAL SERVICE CONSULTANT,, 24x7 Security  •  Business Center  •  Children Play Area  •  Close to Grocery Stores
+1,Flat,Madhapur,"16,000",700 sq.ft,Un-furnished,Anil, Lift  •  Parking  •  Water Supply,
+2,Flat,Kondapur,"40,000",1250 sq.ft,Fully furnished,Ravi Kumar,, 24x7 Security  •  ATM  •  Children Play Area  •  Close to Bus Stop
+1,Flat,Madhapur,"14,500",630 sq.ft,Un-furnished,Anil, Parking,
+3,Flat,Ameerpet,"28,000",1600 sq.ft,Semi furnished,Prime Property,, Close to Bus Stop  •  Close to ATM  •  Close to Grocery Stores  •  Copper Wiring
+1,Flat,Kondapur,"13,000",712 sq.ft,Un-furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Kokapet,"50,000",1638 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+1,Flat,Kondapur,"16,000",700 sq.ft,Un-furnished,SHIVA, Parking,
+1,Flat,Kondapur,"24,000",750 sq.ft,Fully furnished,SHIVA, Parking,
+2,Flat,Kondapur,"30,000",1430 sq.ft,Semi furnished,SHIVA, Parking,
+1,Flat,Kondapur,"26,000",600 sq.ft,Fully furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Madhapur,"35,000",1250 sq.ft,Semi furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Madhapur,"38,000",1250 sq.ft,Fully furnished,Mudavath Pushkar,, Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital  •  Close to ATM
+1,Flat,Kondapur,"26,000",600 sq.ft,Fully furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Kondapur,"20,000",650 sq.ft,Fully furnished,SHIVA,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Mall
+5,Flat,Madhapur,"85,000",2500 sq.ft,Fully furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Kondapur,"17,000",750 sq.ft,Un-furnished,SHIVA, Parking,
+1,Flat,Madhapur,"27,000",650 sq.ft,Fully furnished,Mudavath Pushkar,, Close to Bus Stop  •  Close to ATM  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Madhapur,"29,000",700 sq.ft,Fully furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Kondapur,"27,000",700 sq.ft,Fully furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Kondapur,"33,000",1250 sq.ft,Fully furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+3,Flat,Kokapet,"60,000",2419 sq.ft,Semi furnished,APM,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+1,Flat,Kondapur,"26,000",650 sq.ft,Fully furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Madhapur,"27,000",600 sq.ft,Fully furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+3,Flat,Madhapur,"45,000",1750 sq.ft,Semi furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+3,Flat,Madhapur,"52,000",1800 sq.ft,Semi furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Jain Temple
+1,Flat,Kondapur,"27,000",550 sq.ft,Fully furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Kondapur,"45,000",1250 sq.ft,Fully furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Kondapur,"16,000",550 sq.ft,Semi furnished,SHIVA,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Mall
+2,Flat,Kondapur,"43,000",1050 sq.ft,Fully furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Kondapur,"23,000",550 sq.ft,Fully furnished,SHIVA,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Mall
+1,Flat,Kondapur,"18,000",500 sq.ft,Semi furnished,SHIVA,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Mall
+1,Flat,Madhapur,"28,000",600 sq.ft,Fully furnished,Mudavath Pushkar,, Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital  •  Close to ATM
+1,Flat,Kondapur,"14,500",782 sq.ft,Un-furnished,Shri Krishna Rentals,, 24x7 Security  •  Children Play Area  •  Close to Bus Stop  •  Close to Hospital
+1,Flat,Madhapur,"15,500",650 sq.ft,Un-furnished,Anil, Lift  •  Parking  •  Water Supply,
+2,Flat,Kondapur,"35,500",1475 sq.ft,Fully furnished,SHIVA, Parking,
+1,Flat,Kondapur,"25,000",650 sq.ft,Fully furnished,Ravi Kumar,, 24x7 Security  •  ATM  •  Close to Bus Stop  •  Close to Hospital
+1,Flat,Kondapur,"23,000",750 sq.ft,Fully furnished,SHIVA, Parking,
+2,Flat,Madhapur,"36,000",1050 sq.ft,Semi furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Kondapur,"25,000",610 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Bus Stop  •  Close to Grocery Stores
+2,Flat,Madhapur,"40,000",1250 sq.ft,Fully furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Madhapur,"36,000",1250 sq.ft,Fully furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Kondapur,"21,000",600 sq.ft,Semi furnished,SHIVA,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Mall
+2,Flat,Kondapur,"34,000",1350 sq.ft,Fully furnished,SHIVA, Parking,
+1,Flat,Kondapur,"22,000",700 sq.ft,Fully furnished,SHIVA,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Mall
+1,Flat,Kondapur,"18,000",650 sq.ft,Un-furnished,SHIVA, Parking,
+1,Flat,Madhapur,"14,000",650 sq.ft,Un-furnished,Anil, Lift  •  Parking  •  Water Supply,
+,Flat,Madhapur,"22,000",400 sq.ft,Fully furnished,Ravi Kumar,, 24x7 Security  •  Closer to Pharmacy  •  Community Hall  •  Cycling & Jogging Track
+2,Flat,Kondapur,"41,000",1250 sq.ft,Fully furnished,Mudavath Pushkar,, Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital  •  Close to ATM
+3,Flat,Kondapur,"40,000",2500 sq.ft,Semi furnished,Tirupathi Rentals,, 24x7 Security  •  Pooja Room in West Side  •  Power Backup  •  Lift
+1,Flat,Kondapur,"23,000",780 sq.ft,Fully furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Hospital  •  Close to Grocery Stores
+1,Flat,Manikonda,"40,000",700 sq.ft,Fully furnished,Keetown Realty, Lift  •  Parking  •  Gas Pipeline,
+1,Flat,Yousufguda,"10,500",580 sq.ft,Semi furnished,Mujahid,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+1,Flat,Kondapur,"20,005",550 sq.ft,Semi furnished,SHIVA,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Mall
+1,Flat,Madhapur,"18,000",800 sq.ft,Un-furnished,Anil, Lift  •  Parking  •  Water Supply,
+3,Flat,Shilpa Hills,"58,000",2455 sq.ft,Semi furnished,SRI VARAHI,, 24x7 Security  •  Gymnasium  •  Power Backup  •  Swimming Pool
+1,Flat,Manikonda,"27,000",600 sq.ft,Fully furnished,Keetown Realty,, Metro Station Proximity  •  Close to Bus Stop  •  Close to Mall  •  Close to Movie Theatres
+4,Flat,Kokapet,"1,00,000",2200 sq.ft,Semi furnished,MAHANYA PROPERTIES,, 24x7 Security  •  Children Play Area  •  Wall Climbing  •  Swimming Pool
+1,Flat,Yousufguda,"12,000",650 sq.ft,Semi furnished,Mujahid,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+2,Flat,Kondapur,"45,000",1200 sq.ft,Fully furnished,Ravi Kumar,, 24x7 Security  •  Close to ATM  •  Close to Jain Temple  •  Closer to Pharmacy
+1,Flat,Kondapur,"15,500",785 sq.ft,Un-furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Pubs & Restaurants
+1,Flat,Kondapur,"18,500",650 sq.ft,Semi furnished,SHIVA,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Mall
+2,Flat,Kondapur,"45,000",1150 sq.ft,Fully furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores
+1,Flat,Kondapur,"16,000",795 sq.ft,Un-furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Pubs & Restaurants
+1,Flat,Yousufguda,"12,000",600 sq.ft,Semi furnished,Mujahid,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+4,Villa,Osman Nagar,"1,25,000",4166 sq.ft,Semi furnished,MAHANYA PROPERTIES,, 24x7 Security  •  Badminton Court  •  Children Play Area  •  Close to Airport
+1,Flat,Kondapur,"18,500",550 sq.ft,Semi furnished,SHIVA,, 24x7 Security  •  Close to Grocery Stores  •  Close to Bus Stop  •  Close to Mall
+1,Flat,Kondapur,"18,000",1200 sq.ft,Semi furnished,Tirupathi Rentals,, 24x7 Security  •  Close to Mall  •  East Facing BedRoom  •  Pooja Room in East Side
+3,Flat,Gachibowli,"65,000",2160 sq.ft,Semi furnished,Suchitha, Pool  •  Gym  •  Lift  •  Parking,
+1,Flat,Ameerpet,"12,000",600 sq.ft,Semi furnished,Hyderabad Rentals,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+1,Flat,Kondapur,"16,000",784 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Bus Stop  •  Close to Hospital
+3,Flat,Serilingampally,"42,000",1750 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Children Play Area  •  Close to ATM  •  Close to Bus Stop
+1,Flat,Kondapur,"23,000",792 sq.ft,Fully furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Movie Theatres
+1,Flat,Kondapur,"25,000",600 sq.ft,Fully furnished,Ravi Kumar,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Jain Temple
+4,Flat,Financial District,"61,000",2644 sq.ft,Semi furnished,Venkat Patel,, 24 Hours Concierge  •  24x7 Security  •  ATM  •  Badminton Court
+3,Flat,Serilingampally,"36,000",1900 sq.ft,Semi furnished,Swastik Properties,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Bus Stop
+2,Flat,Khaja Guda,"45,000",1200 sq.ft,Semi furnished,Keetown Realty, Lift  •  Parking,
+1,Flat,Ameerpet,"13,500",800 sq.ft,Un-furnished,Hyderabad Rentals,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+1,Flat,Hafeezpet,"22,500",760 sq.ft,Fully furnished,Rentals Homes,, 24x7 Security  •  Close to Bus Stop  •  Close to Mall  •  East Facing Living Room
+1,Flat,Sanjeeva Reddy Nagar,"11,500",580 sq.ft,Semi furnished,Mujahid,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+3,Flat,Khaja Guda,"70,000",1600 sq.ft,Semi furnished,Keetown Realty, Lift  •  Parking,
+3,Flat,Serilingampally,"53,000",1850 sq.ft,Fully furnished,Swastik Properties,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+4,Villa,Gandipet,"2,50,000",4500 sq.ft,Fully furnished,Keetown Realty,, 24x7 Security  •  School Proximity  •  Close to Hospital  •  Close to Jain Temple
+1,Flat,Kondapur,"14,001",650 sq.ft,Un-furnished,Tirupathi Rentals,, 24x7 Security  •  24 Hours Concierge  •  Close to Mall  •  Cricket Pitch
+1,Flat,Kondapur,"17,200",720 sq.ft,Un-furnished,Tirupathi Rentals,, 24x7 Security  •  East Facing Living Room  •  Lift  •  Football Field
+1,Flat,Kondapur,"20,000",750 sq.ft,Semi furnished,Swastik Properties,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Kondapur,"27,000",800 sq.ft,Fully furnished,Swastik Properties,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+3,Flat,Gachibowli,"75,000",2160 sq.ft,Fully furnished,Suchitha, Pool  •  Gym  •  Lift  •  Parking,
+1,Flat,Kondapur,"26,000",650 sq.ft,Fully furnished,Swastik Properties,, 24x7 Security  •  Close to Bus Stop  •  Close to Hospital  •  Close to Grocery Stores
+1,Flat,Kondapur,"21,000",550 sq.ft,Fully furnished,Swastik Properties,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Kondapur,"29,000",1150 sq.ft,Semi furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to Bus Stop  •  Close to Hospital  •  Close to Grocery Stores
+3,Flat,Serilingampally,"38,000",1800 sq.ft,Semi furnished,Swastik Properties,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Madhapur,"30,000",1100 sq.ft,Semi furnished,Anil, Lift  •  Parking  •  Water Supply,
+1,Flat,Kondapur,"25,000",600 sq.ft,Fully furnished,Swastik Properties,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Kondapur,"26,000",700 sq.ft,Fully furnished,Swastik Properties,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Kondapur,"14,000",800 sq.ft,Un-furnished,Tirupathi Rentals,, 24x7 Security  •  24 Hours Concierge  •  Lift  •  Power Backup
+3,Flat,Ameerpet,"35,000",1650 sq.ft,Semi furnished,Prime Property,, 24x7 Security  •  East Facing BedRoom  •  East Facing Kitchen  •  Emulsion Paints
+4,Flat,Kokapet,"1,00,000",2800 sq.ft,Fully furnished,MAHANYA PROPERTIES,, 24x7 Security  •  Gymnasium  •  Kid's Pool  •  Entrance on East Side
+1,Flat,Kondapur,"23,000",600 sq.ft,Fully furnished,Swastik Properties,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Kondapur,"16,000",650 sq.ft,Un-furnished,Tirupathi Rentals,, 24x7 Security  •  24 Hours Concierge  •  Lift  •  Power Backup
+2,Flat,Kondapur,"43,000",1300 sq.ft,Fully furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+4,Flat,Nallagandla,"85,000",2600 sq.ft,Fully furnished,Home Ally,, Fire Fighting Systems  •  Gymnasium  •  Gated Community  •  Sports Area
+1,Flat,Kondapur,"18,000",600 sq.ft,Semi furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to ATM
+1,Flat,Kondapur,"23,000",700 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Kondapur,"34,000",1200 sq.ft,Fully furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Madhapur,"32,000",1150 sq.ft,Semi furnished,Anil,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Mall
+2,Flat,Kondapur,"28,000",1200 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Madhapur,"25,000",709 sq.ft,Fully furnished,N Chiranjeevi, Parking,
+2,Flat,Kondapur,"36,000",1650 sq.ft,Fully furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to ATM
+3,Flat,Kondapur,"55,000",1850 sq.ft,Fully furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Hospital  •  Close to Pubs & Restaurants  •  Cycling & Jogging Track
+1,Flat,Kondapur,"17,000",765 sq.ft,Un-furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Kondapur,"20,000",795 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Movie Theatres  •  Cycling & Jogging Track  •  Close to Hospital
+2,Flat,Madhapur,"40,000",1350 sq.ft,Fully furnished,Anil,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Mall
+2,Flat,Madhapur,"32,000",1203 sq.ft,Semi furnished,N Chiranjeevi, Parking,
+1,Flat,Kondapur,"22,000",610 sq.ft,Fully furnished,Swastik Properties,, 24x7 Security  •  Barbecue Area  •  Close to Bus Stop  •  Close to Hospital
+5,Villa,Velimela,"85,000",3300 sq.ft,Semi furnished,H3 Realty,, Power Backup  •  Community Hall  •  School Proximity  •  Sea Facing Master Bedroom
+1,Flat,Kondapur,"17,000",795 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Business Center  •  Close to Bus Stop  •  Close to Grocery Stores
+1,Flat,Kondapur,"17,000",550 sq.ft,Semi furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Madhapur,"34,000",1100 sq.ft,Fully furnished,N Chiranjeevi, Parking,
+1,Flat,Madhapur,"20,000",750 sq.ft,Semi furnished,Anil,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Mall
+4,Flat,Kokapet,"1,20,010",4641 sq.ft,Fully furnished,Azuro.in,, Gymnasium  •  Utility Shops  •  Swimming Pool  •  School Proximity
+3,Flat,Hafeezpet,"38,000",1750 sq.ft,Semi furnished,Shreyans,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Bus Stop
+2,Flat,Madhapur,"32,000",1200 sq.ft,Semi furnished,N Chiranjeevi, Parking,
+,Flat,Kondapur,"13,500",572 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Madhapur,"16,500",630 sq.ft,Un-furnished,Anil, Parking,
+1,Flat,Madhapur,"16,500",843 sq.ft,Un-furnished,Anil, Parking,
+2,Flat,Khaja Guda,"46,000",1100 sq.ft,Semi furnished,Suchitha, Pool  •  Gym  •  Lift  •  Parking,
+2,Flat,Madhapur,"45,000",1206 sq.ft,Fully furnished,N Chiranjeevi, Parking,
+1,Flat,Madhapur,"26,000",701 sq.ft,Fully furnished,N Chiranjeevi, Parking,
+,Flat,Kondapur,"17,000",612 sq.ft,Fully furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Pubs & Restaurants
+2,Flat,Madhapur,"45,000",1200 sq.ft,Fully furnished,N Chiranjeevi, Parking,
+1,Flat,Madhapur,"26,000",750 sq.ft,Fully furnished,Anil,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Mall
+1,Flat,Kondapur,"24,000",782 sq.ft,Fully furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Pubs & Restaurants  •  Close to Bus Stop
+3,Flat,Kondapur,"32,000",1650 sq.ft,Semi furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to ATM  •  Close to Grocery Stores  •  Close to Bus Stop
+2,Flat,Madhapur,"36,000",1200 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Jain Temple
+3,Flat,Madhapur,"55,000",1800 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  Close to Grocery Stores  •  Close to Jain Temple  •  Close to Mall
+1,Flat,Madhapur,"19,000",850 sq.ft,Semi furnished,Anil, Lift  •  Parking,
+2,Flat,Madhapur,"28,000",901 sq.ft,Semi furnished,N Chiranjeevi, Parking,
+2,Flat,Serilingampally,"32,999",1100 sq.ft,Fully furnished,Shreyans,, 24x7 Security  •  Close to Hospital  •  Close to Bus Stop  •  Close to Grocery Stores
+1,Flat,Kondapur,"25,000",600 sq.ft,Fully furnished,Swastik Properties,, 24x7 Security  •  Close to Bus Stop  •  Close to Hospital  •  East Facing Living Room
+2,Flat,Hafeezpet,"31,999",1150 sq.ft,Semi furnished,Shreyans,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Bus Stop
+2,Flat,Kondapur,"28,000",1300 sq.ft,Semi furnished,Rentals Homes,, 24x7 Security  •  24 Hours Concierge  •  Power Backup
+5,Villa,Manikonda,"2,50,000",5800 sq.ft,Fully furnished,Keetown Realty, Pool  •  Gym  •  Lift  •  Parking,
+1,Flat,Madhapur,"20,000",550 sq.ft,Semi furnished,Anil, Lift  •  Parking,
+2,Flat,Sanjeeva Reddy Nagar,"22,000",1130 sq.ft,Semi furnished,Azeem,, 24x7 Security  •  Close to ATM  •  Close to Mall  •  Lift
+1,Flat,Madhapur,"25,500",750 sq.ft,Fully furnished,Anil, Lift  •  Parking  •  Water Supply,
+1,Flat,Madhapur,"19,000",830 sq.ft,Semi furnished,Anil, Lift  •  Parking,
+1,Flat,Madhapur,"24,500",750 sq.ft,Fully furnished,Anil, Lift  •  Parking  •  Water Supply,
+1,Flat,Madhapur,"19,500",810 sq.ft,Semi furnished,Anil, Lift  •  Parking  •  Water Supply,
+1,Flat,Madhapur,"17,000",750 sq.ft,Un-furnished,Anil, Lift  •  Parking  •  Water Supply,
+3,Flat,Kokapet,"75,000",1795 sq.ft,Semi furnished,SwadesHomes,, Badminton Court  •  Community Hall  •  Cricket Pitch  •  Restaurants/Cafeterias
+3,Flat,Kondapur,"65,000",2100 sq.ft,Fully furnished,Lokal Properties, Gym  •  Lift  •  Parking  •  Power Backup,
+1,Flat,Kondapur,"25,000",600 sq.ft,Fully furnished,Swastik Properties,, 24x7 Security  •  Close to Bus Stop  •  Close to Hospital  •  East Facing Kitchen
+4,Flat,Gachibowli,"1,20,000",3347 sq.ft,Semi furnished,SRS CONSULTANCY,, 24x7 Security  •  ATM  •  Badminton Court  •  Barbecue Area
+2,Flat,Ameerpet,"21,000",1010 sq.ft,Semi furnished,Azeem,, 24x7 Security  •  Close to ATM  •  Close to Bus Stop  •  Lift
+3,Flat,Gachibowli,"81,000",2430 sq.ft,Semi furnished,SRS CONSULTANCY,, Anti Skid Titles  •  ATM  •  Badminton Court  •  Barbecue Area
+3,Flat,Madhapur,"42,000",1500 sq.ft,Semi furnished,N Chiranjeevi, Parking,
+,Flat,Kondapur,"19,000",350 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Bus Stop  •  Close to Grocery Stores
+2,Flat,Kondapur,"25,000",1150 sq.ft,Semi furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Kondapur,"28,000",1300 sq.ft,Semi furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+3,Flat,Narsingi,"85,000",2335 sq.ft,Semi furnished,SwadesHomes,, Day Care Center  •  ATM  •  Kid's Pool  •  Rainwater Harvesting
+1,Flat,Kondapur,"18,000",750 sq.ft,Semi furnished,M R RENTALS,, 24 Hours Concierge  •  24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores
+3,Flat,Madhapur,"40,000",1600 sq.ft,Semi furnished,N Chiranjeevi, Parking,
+1,Flat,Kondapur,"19,000",600 sq.ft,Semi furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Kondapur,"17,000",550 sq.ft,Semi furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Kondapur,"37,000",1150 sq.ft,Fully furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores
+1,Flat,Kondapur,"23,000",550 sq.ft,Semi furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Kondapur,"27,500",1000 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Mall
+2,Flat,Kondapur,"32,000",1250 sq.ft,Semi furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores
+2,Flat,Kondapur,"27,000",1300 sq.ft,Semi furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Madhapur,"16,000",600 sq.ft,Un-furnished,Anil, Parking,
+3,Flat,Kondapur,"36,000",1800 sq.ft,Semi furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Kondapur,"18,000",600 sq.ft,Semi furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to Bus Stop  •  Close to ATM  •  Close to Grocery Stores
+3,Flat,Hafeezpet,"39,000",1700 sq.ft,Semi furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Kondapur,"18,000",500 sq.ft,Semi furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores
+1,Flat,Kondapur,"23,800",800 sq.ft,Fully furnished,Tirupathi Rentals,, 24 Hours Concierge  •  24x7 Security  •  Lift  •  Power Backup
+1,Flat,Kondapur,"18,200",800 sq.ft,Semi furnished,Tirupathi Rentals,, 24 Hours Concierge  •  24x7 Security  •  Fire Resistant Wiring  •  Golf Course
+3,Flat,Kondapur,"38,000",1800 sq.ft,Semi furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Madhapur,"40,000",1250 sq.ft,Fully furnished,N Chiranjeevi, Lift  •  Parking,
+2,Flat,Kondapur,"28,000",1200 sq.ft,Semi furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+5,Villa,Velimela,"1,10,000",4030 sq.ft,Fully furnished,H3 Realty,, 24x7 Security  •  Lift  •  Power Backup  •  School Proximity
+1,Flat,Kondapur,"23,000",550 sq.ft,Fully furnished,Shreyans,, 24x7 Security  •  Close to Grocery Stores  •  Close to Bus Stop  •  Close to Hospital
+2,Flat,Kondapur,"38,000",1145 sq.ft,Semi furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Kondapur,"25,000",560 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Bus Stop  •  Close to Grocery Stores
+2,Flat,Kondapur,"37,000",1150 sq.ft,Fully furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to ATM
+3,Flat,Kondapur,"40,000",1800 sq.ft,Semi furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores
+2,Flat,Kondapur,"28,000",1200 sq.ft,Semi furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores
+2,Flat,Kondapur,"40,000",1250 sq.ft,Fully furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Madhapur,"36,000",1210 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Bus Stop  •  Close to Grocery Stores
+1,Flat,Madhapur,"22,000",850 sq.ft,Semi furnished,Anil,, 24x7 Security  •  Close to Hospital  •  Close to Grocery Stores  •  Close to Pubs & Restaurants
+1,Flat,Hafeezpet,"18,499",550 sq.ft,Semi furnished,Shreyans,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Bus Stop
+5,Flat,Nallagandla,"55,000",1530 sq.ft,Semi furnished,Dinesh, Pool  •  Gym  •  Lift  •  Parking,
+4,Villa,Velimela,"75,000",3005 sq.ft,Semi furnished,H3 Realty,, School Proximity  •  Power Backup  •  Lift  •  Community Hall
+2,Flat,Kondapur,"38,000",1275 sq.ft,Fully furnished,RAM LAXMAN Kondapur Property Rental,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to ATM
+1,Flat,Hafeezpet,"17,000",800 sq.ft,Semi furnished,Tirupathi Rentals,, 24x7 Security  •  24 Hours Concierge  •  Lift  •  Power Backup
+2,Flat,Serilingampally,"37,500",1150 sq.ft,Fully furnished,Shreyans,, 24x7 Security  •  Close to Grocery Stores  •  Close to Bus Stop  •  Close to Hospital
+2,Flat,Narsingi,"58,000",1370 sq.ft,Semi furnished,Venkat Patel,, 24 Hours Concierge  •  24x7 Security  •  Badminton Court  •  ATM
+2,Flat,Narsingi,"60,000",1370 sq.ft,Semi furnished,Venkat Patel,, 24 Hours Concierge  •  24x7 Security  •  ATM  •  Badminton Court
+2,Flat,Hafeezpet,"22,500",1190 sq.ft,Semi furnished,Rentals Homes,, 24x7 Security  •  24 Hours Concierge  •  Close to Mall  •  East Facing Living Room
+1,Flat,Kondapur,"28,000",750 sq.ft,Fully furnished,KGF Rentals, Lift  •  Parking  •  Power Backup  •  Water Supply,
+1,Flat,Hafeezpet,"17,599",750 sq.ft,Semi furnished,Shreyans,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to ATM
+3,Flat,Narsingi,"80,000",2020 sq.ft,Semi furnished,Venkat Patel,, 24 Hours Concierge  •  24x7 Security  •  ATM  •  Badminton Court
+3,Flat,Narsingi,"89,000",2335 sq.ft,Semi furnished,Venkat Patel,, 24 Hours Concierge  •  24x7 Security  •  ATM  •  Badminton Court
+5,Flat,Serilingampally,"50,000",1400 sq.ft,Semi furnished,Lokal Properties, Pool  •  Gym  •  Lift  •  Parking,
+2,Flat,Manikonda,"40,000",1250 sq.ft,Fully furnished,Harsha Rentals,, Close to Grocery Stores  •  Close to Bus Stop  •  Good Cross Ventilation  •  Lift
+1,Flat,Kondapur,"20,000",700 sq.ft,Semi furnished,Tirupathi Rentals,, 24x7 Security  •  24 Hours Concierge  •  Lift  •  Power Backup
+1,Flat,Madhapur,"27,000",751 sq.ft,Fully furnished,N Chiranjeevi, Parking,
+1,Flat,Madhapur,"26,000",610 sq.ft,Fully furnished,Harsha Rentals,, Close to Grocery Stores  •  Close to Bus Stop  •  Good Cross Ventilation  •  Lift
+1,Flat,Madhapur,"26,000",750 sq.ft,Fully furnished,N Chiranjeevi, Lift  •  Parking,
+2,Flat,Madhapur,"36,000",1001 sq.ft,Fully furnished,N Chiranjeevi, Parking,
+1,Flat,Hafeezpet,"14,000",720 sq.ft,Un-furnished,Rentals Homes,, 24x7 Security  •  24 Hours Concierge  •  Close to Bus Stop  •  Close to Mall
+2,Flat,Madhapur,"35,000",1150 sq.ft,Semi furnished,N Chiranjeevi, Parking,
+,Flat,Yousufguda,"22,000",1158 sq.ft,Semi furnished,Hyderabad Rentals,, 24x7 Security  •  Close to Bus Stop  •  Gated Community  •  Kid's Pool
+2,Flat,Manikonda,"40,000",1230 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Grocery Stores  •  Close to Bus Stop
+3,Flat,Gachibowli,"60,000",1835 sq.ft,Semi furnished,Suchitha, Pool  •  Gym  •  Lift  •  Parking,
+1,Flat,Hafeezpet,"15,500",710 sq.ft,Semi furnished,Rentals Homes,, 24x7 Security  •  24 Hours Concierge  •  Close to Bus Stop  •  Close to Mall
+1,Flat,Kondapur,"16,000",786 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Bus Stop  •  Close to Hospital
+2,Flat,Serilingampally,"27,499",1050 sq.ft,Semi furnished,Shreyans,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Bus Stop
+2,Flat,Madhapur,"35,000",1210 sq.ft,Semi furnished,Harsha Rentals,, Close to Grocery Stores  •  Close to Bus Stop  •  Good Cross Ventilation  •  Metro Station Proximity
+1,Flat,Kondapur,"19,000",795 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Bus Stop
+3,Flat,Kondapur,"68,000",2500 sq.ft,Fully furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+,Flat,Kondapur,"19,000",512 sq.ft,Fully furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Mall  •  Close to Movie Theatres
+1,Flat,Kondapur,"21,800",800 sq.ft,Fully furnished,Tirupathi Rentals,, 24x7 Security  •  Close to Airport  •  Lift  •  Aerobics Room
+1,Flat,Kondapur,"18,500",800 sq.ft,Semi furnished,Tirupathi Rentals,, 24x7 Security  •  Lift  •  Close to Mall
+2,Flat,Kondapur,"38,000",1200 sq.ft,Fully furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Movie Theatres  •  Close to Grocery Stores  •  Close to Bus Stop
+1,Flat,Kondapur,"16,000",1150 sq.ft,Semi furnished,Tirupathi Rentals,, 24x7 Security  •  24 Hours Concierge  •  Lift  •  Power Backup
+2,Flat,Kondapur,"22,000",1200 sq.ft,Un-furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Pubs & Restaurants
+3,Flat,Madhapur,"38,000",1800 sq.ft,Semi furnished,Srinunayak10,, 24 Hours Concierge  •  24x7 Security  •  Aerobics Room  •  Amphitheatre
+3,Flat,Kondapur,"35,000",2800 sq.ft,Fully furnished,Tirupathi Rentals,, 24x7 Security  •  24 Hours Concierge  •  Lift  •  Power Backup
+4,Independent House,Manikonda,"3,00,000",3000 sq.ft,Fully furnished,Giri Vardan Rao, Parking,
+2,Flat,Kondapur,"34,000",1250 sq.ft,Semi furnished,M R RENTALS,, 24 Hours Concierge  •  24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores
+2,Flat,Khaja Guda,"40,000",1350 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Good Cross Ventilation
+3,Flat,Madhapur,"50,000",2000 sq.ft,Semi furnished,Srinunayak10, Lift  •  Parking  •  Power Backup  •  Intercom,
+4,Duplex,Madhapur,"1,00,000",3000 sq.ft,Semi furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Jain Temple
+5,Independent House,Jubilee Hills,"3,50,000",5000 sq.ft,Semi furnished,Giri Vardan Rao, Parking,
+1,Flat,Hafeezpet,"15,500",550 sq.ft,Semi furnished,Shreyans,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Bus Stop
+1,Flat,Kondapur,"25,000",590 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Bus Stop  •  Lift
+3,Flat,Kondapur,"36,000",3000 sq.ft,Semi furnished,Tirupathi Rentals,, 24x7 Security  •  Close to Mall  •  East Facing Living Room  •  Pooja Room in East Side
+2,Flat,Kondapur,"32,000",1150 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Children Play Area  •  Close to Airport  •  Close to Grocery Stores
+1,Flat,Kondapur,"14,500",800 sq.ft,Un-furnished,Tirupathi Rentals,, 24x7 Security  •  Close to Mall  •  Copper Wiring  •  East Facing Living Room
+3,Flat,Hitech City,"56,000",1800 sq.ft,Fully furnished,Srinunayak10,, Close to Hospital  •  Close to Mall  •  Close to Movie Theatres  •  Close to Railway Station
+1,Flat,Kondapur,"16,000",800 sq.ft,Semi furnished,Tirupathi Rentals,, 24 Hours Concierge  •  24x7 Security  •  Lift  •  Power Backup
+1,Flat,Kondapur,"18,000",800 sq.ft,Fully furnished,Tirupathi Rentals,, 24x7 Security  •  24 Hours Concierge  •  Lift  •  Power Backup
+1,Flat,Kondapur,"20,000",750 sq.ft,Semi furnished,Tirupathi Rentals,, 24x7 Security  •  Copper Wiring  •  Lift  •  North East Facing Living Room
+3,Flat,Madhapur,"60,000",2000 sq.ft,Semi furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+3,Flat,Kondapur,"51,000",1850 sq.ft,Fully furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Pubs & Restaurants
+1,Flat,Kondapur,"19,100",800 sq.ft,Semi furnished,Tirupathi Rentals,, 24 Hours Concierge  •  24x7 Security  •  Lift  •  Power Backup
+2,Flat,Kondapur,"28,000",1100 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Hospital  •  Close to Grocery Stores  •  Close to Bus Stop
+3,Flat,Madhapur,"55,000",2100 sq.ft,Semi furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Kondapur,"21,000",795 sq.ft,Fully furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Pubs & Restaurants  •  Closer to Pharmacy
+1,Flat,Kondapur,"25,000",800 sq.ft,Fully furnished,Tirupathi Rentals,, 24x7 Security  •  24 Hours Concierge  •  Lift  •  Power Backup
+1,Flat,Hafeezpet,"14,000",780 sq.ft,Un-furnished,Rentals Homes,, 24x7 Security  •  Close to Bus Stop  •  Close to Mall  •  East Facing BedRoom
+4,Flat,Gachibowli,"1,20,000",3340 sq.ft,Semi furnished,SRS CONSULTANCY,, Basketball Court  •  Business Center  •  Ceramic Tiles  •  Children Play Area
+1,Flat,Kondapur,"16,000",795 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Closer to Pharmacy  •  Cycling & Jogging Track
+1,Flat,Yousufguda,"12,000",600 sq.ft,Semi furnished,Mujahid, Lift  •  Parking  •  Pet Allowed,
+2,Flat,Kondapur,"28,000",1400 sq.ft,Un-furnished,Tirupathi Rentals,, 24 Hours Concierge  •  24x7 Security  •  Lift  •  Power Backup
+2,Flat,Kondapur,"29,000",1200 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Pubs & Restaurants
+1,Flat,Kondapur,"17,000",800 sq.ft,Semi furnished,Tirupathi Rentals,, 24x7 Security  •  Close to ATM  •  Close to Mall  •  Copper Wiring
+2,Flat,Madhapur,"34,000",1200 sq.ft,Un-furnished,Srinunayak10,, 24x7 Security  •  Close to ATM  •  Close to Movie Theatres  •  Marble
+2,Flat,Ameerpet,"19,800",1085 sq.ft,Semi furnished,Hyderabad Rentals,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+2,Flat,Kondapur,"30,000",2800 sq.ft,Semi furnished,Tirupathi Rentals,, 24x7 Security  •  24 Hours Concierge  •  East Facing BedRoom  •  Pooja Room in South Side
+2,Flat,Ameerpet,"19,000",1150 sq.ft,Un-furnished,Pasha,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+2,Flat,Hafeezpet,"28,500",1250 sq.ft,Semi furnished,Rentals Homes,, 24x7 Security  •  Close to Bus Stop  •  Close to Mall  •  East Facing Living Room
+1,Flat,Gachibowli,"25,000",610 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Good Cross Ventilation
+3,Flat,Madhapur,"68,000",2200 sq.ft,Fully furnished,Srinunayak10,, 24x7 Security  •  Close to Hospital  •  Close to Movie Theatres  •  Lift
+3,Flat,Narsingi,"65,000",1855 sq.ft,Semi furnished,SRI VARAHI,, 24x7 Security  •  Gymnasium  •  Power Backup  •  Swimming Pool
+3,Flat,Narsingi,"68,000",1855 sq.ft,Fully furnished,SRI VARAHI,, 24x7 Security  •  Gymnasium  •  Power Backup  •  Swimming Pool
+1,Flat,Sanjeeva Reddy Nagar,"11,400",650 sq.ft,Un-furnished,Pasha,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+1,Flat,Hafeezpet,"15,000",750 sq.ft,Semi furnished,Rentals Homes,, 24x7 Security  •  24 Hours Concierge  •  Close to Mall  •  East Facing BedRoom
+1,Flat,Sanjeeva Reddy Nagar,"17,500",602 sq.ft,Fully furnished,Hyderabad Rentals,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+1,Flat,Sanjeeva Reddy Nagar,"11,000",550 sq.ft,Semi furnished,Mujahid,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+2,Flat,Ameerpet,"19,000",1085 sq.ft,Semi furnished,Mujahid,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+1,Flat,Hafeezpet,"15,900",700 sq.ft,Un-furnished,Harika Properties,, 24x7 Security  •  ATM  •  Close to ATM  •  Close to Jain Temple
+,Flat,Sanath Nagar,"21,700",1085 sq.ft,Semi furnished,Hyderabad Rentals,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+2,Flat,Kondapur,"42,000",1350 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Grocery Stores  •  Close to Bus Stop
+1,Flat,Ameerpet,"12,000",650 sq.ft,Semi furnished,Mujahid, Lift  •  Parking,
+1,Flat,Sanjeeva Reddy Nagar,"11,300",660 sq.ft,Un-furnished,Hyderabad Rentals,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+5,Flat,Kondapur,"25,000",1000 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  Close to Bus Stop  •  Close to Hospital  •  Close to Grocery Stores
+3,Flat,Kondapur,"40,000",1800 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  Children Play Area  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Sanjeeva Reddy Nagar,"11,000",550 sq.ft,Semi furnished,Mujahid, Lift  •  Parking,
+4,Flat,Narsingi,"2,80,000",5400 sq.ft,Semi furnished,SRI VARAHI,, 24x7 Security  •  Power Backup  •  Swimming Pool  •  Gymnasium
+3,Flat,Narsingi,"1,02,000",2055 sq.ft,Fully furnished,SRI VARAHI,, High-Tech Alarm System  •  Swimming Pool  •  24x7 Security  •  Gymnasium
+1,Flat,Sanjeeva Reddy Nagar,"10,700",680 sq.ft,Un-furnished,Pasha,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+1,Flat,Sanjeeva Reddy Nagar,"11,500",620 sq.ft,Un-furnished,Pasha,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+2,Flat,Sanjeeva Reddy Nagar,"18,500",1200 sq.ft,Un-furnished,Pasha,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+1,Flat,Kondapur,"26,000",650 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Bus Stop  •  Good Cross Ventilation
+2,Flat,Sanjeeva Reddy Nagar,"23,000",1280 sq.ft,Semi furnished,Hyderabad Rentals,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+2,Flat,Kondapur,"30,000",1100 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  Close to Hospital  •  Close to Jain Temple  •  Close to Mall
+2,Flat,Sanjeeva Reddy Nagar,"20,000",1100 sq.ft,Un-furnished,Pasha,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+1,Flat,Kondapur,"23,000",600 sq.ft,Fully furnished,Ravi Kumar,, 24x7 Security  •  Children Play Area  •  Close to Bus Stop  •  Close to Mall
+1,Flat,Ameerpet,"11,000",650 sq.ft,Semi furnished,Mujahid,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+2,Flat,Sanjeeva Reddy Nagar,"21,000",1200 sq.ft,Un-furnished,Pasha,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+1,Flat,Ameerpet,"11,500",620 sq.ft,Semi furnished,Mujahid, Lift  •  Parking,
+3,Flat,Kondapur,"60,000",2000 sq.ft,Fully furnished,Srinunayak10,, 24x7 Security  •  Close to ATM  •  Close to Movie Theatres  •  Gated Community
+2,Flat,Madhapur,"35,000",1300 sq.ft,Fully furnished,Srinunayak10,, 24x7 Security  •  Ceramic Tiles  •  Lift  •  Power Backup
+3,Flat,Narsingi,"76,000",2070 sq.ft,Semi furnished,SRI VARAHI,, Gymnasium  •  Power Backup  •  Swimming Pool  •  24x7 Security
+1,Flat,Kondapur,"27,000",640 sq.ft,Fully furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Madhapur,"45,000",1800 sq.ft,Fully furnished,Srinunayak10,, Waterproof Paints  •  Power Backup  •  Metro Station Proximity  •  ATM
+2,Flat,Kondapur,"40,000",1280 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Bus Stop  •  Close to Grocery Stores
+2,Flat,Madhapur,"36,000",1200 sq.ft,Fully furnished,Ravi Kumar,, 24x7 Security  •  Close to Bus Stop  •  Close to Hospital  •  Close to Jain Temple
+3,Flat,Madhapur,"46,000",1515 sq.ft,Semi furnished,Srinunayak10, Parking  •  Water Supply,
+3,Flat,Kukatpally,"70,000",3500 sq.ft,Fully furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Kondapur,"22,000",795 sq.ft,Fully furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Bus Stop
+2,Flat,Madhapur,"37,000",1200 sq.ft,Fully furnished,Kalyan, Lift  •  Parking  •  Water Supply,
+1,Flat,Kondapur,"25,999",650 sq.ft,Fully furnished,M R RENTALS,, 24 Hours Concierge  •  24x7 Security  •  Close to Mall  •  Close to Pubs & Restaurants
+1,Flat,Kondapur,"24,000",795 sq.ft,Fully furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Jain Temple
+2,Flat,Kondapur,"30,000",650 sq.ft,Semi furnished,Tirupathi Rentals,, 24 Hours Concierge  •  24x7 Security  •  Lift  •  Power Backup
+3,Flat,Narsingi,"75,000",2020 sq.ft,Semi furnished,Suchitha, Parking,
+2,Flat,Kondapur,"28,000",1100 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Pubs & Restaurants
+1,Flat,Kondapur,"24,799",550 sq.ft,Fully furnished,Shreyans,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Mall
+1,Flat,Kondapur,"23,000",500 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  Close to Bus Stop  •  Close to Hospital  •  Close to Jain Temple
+2,Flat,Manikonda,"45,000",1230 sq.ft,Fully furnished,Ravi Kumar,, 24x7 Security  •  Close to Jain Temple  •  Close to Mall  •  Close to Hospital
+1,Flat,Kondapur,"22,000",780 sq.ft,Fully furnished,Tirupathi Rentals,, 24x7 Security  •  East Facing Living Room  •  Lift  •  Power Backup
+1,Flat,Kondapur,"24,000",750 sq.ft,Fully furnished,M R RENTALS,, 24 Hours Concierge  •  24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores
+3,Flat,Kondapur,"40,000",1740 sq.ft,Semi furnished,Tirupathi Rentals,, 24 Hours Concierge  •  24x7 Security  •  Power Backup  •  Entrance on East Side
+2,Flat,Madhapur,"43,000",1200 sq.ft,Fully furnished,Srinunayak10,, Anti Skid Titles  •  24x7 Security  •  Power Backup  •  Good Cross Ventilation
+3,Flat,Nallagandla,"45,000",1250 sq.ft,Semi furnished,Lokal Properties, Pool  •  Gym  •  Lift  •  Parking,
+1,Flat,Gachibowli,"26,000",620 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Bus Stop  •  Close to Grocery Stores
+1,Flat,Kondapur,"25,000",700 sq.ft,Fully furnished,M R RENTALS,, 24 Hours Concierge  •  24x7 Security  •  Close to Grocery Stores  •  Close to Bus Stop
+3,Flat,Madhapur,"45,000",2000 sq.ft,Semi furnished,Kalyan, Lift  •  Parking  •  Power Backup  •  Water Supply,
+3,Flat,Gachibowli,"65,000",1740 sq.ft,Fully furnished,Suchitha, Parking,
+3,Flat,Madhapur,"55,000",1600 sq.ft,Fully furnished,Kalyan, Lift  •  Parking  •  Power Backup  •  Water Supply,
+1,Flat,Hafeezpet,"17,699",570 sq.ft,Semi furnished,Shreyans,, 24x7 Security  •  Close to Mall  •  Close to Hospital  •  Close to Grocery Stores
+3,Flat,Gachibowli,"55,000",1690 sq.ft,Semi furnished,Suchitha, Pool  •  Gym  •  Lift  •  Parking,
+1,Flat,Kondapur,"24,600",550 sq.ft,Fully furnished,Shreyans,, 24x7 Security  •  Close to Bus Stop  •  Close to Hospital  •  Close to Grocery Stores
+4,Flat,Madhapur,"1,30,000",3000 sq.ft,Semi furnished,Mudavath Pushkar,, Close to ATM  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Madhapur,"35,000",1240 sq.ft,Semi furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Bus Stop  •  Close to Hospital
+1,Flat,Kondapur,"25,000",850 sq.ft,Fully furnished,M R RENTALS,, 24 Hours Concierge  •  24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores
+2,Flat,Madhapur,"30,000",1200 sq.ft,Semi furnished,Kalyan, Lift  •  Parking  •  Water Supply,
+2,Flat,Madhapur,"35,000",1300 sq.ft,Semi furnished,Ravi Kumar,, 24 Hours Concierge  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Madhapur,"33,000",1100 sq.ft,Semi furnished,N Chiranjeevi, Parking,
+2,Flat,Financial District,"55,000",1492 sq.ft,Semi furnished,Coldwell Banker Sutra Property, Pool  •  Gym  •  Lift  •  Parking,
+1,Flat,Madhapur,"24,000",900 sq.ft,Semi furnished,Kalyan, Lift  •  Power Backup  •  Water Supply,
+1,Flat,Madhapur,"30,000",800 sq.ft,Fully furnished,Kalyan, Lift  •  Power Backup  •  Water Supply,
+2,Flat,Kondapur,"38,000",1200 sq.ft,Fully furnished,Ravi Kumar,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+3,Flat,Serilingampally,"65,000",1650 sq.ft,Semi furnished,Suchitha, Pool  •  Gym  •  Lift  •  Parking,
+2,Flat,Kondapur,"28,000",1200 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Hospital  •  Close to Grocery Stores  •  Close to Movie Theatres
+2,Flat,Kondapur,"30,000",1150 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+3,Flat,Madhapur,"40,000",1800 sq.ft,Semi furnished,Srinunayak10, Lift  •  Parking  •  Power Backup  •  Pet Allowed,
+4,Flat,Serilingampally,"66,000",2600 sq.ft,Fully furnished,M R RENTALS,, 24 Hours Concierge  •  24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores
+3,Flat,Narsingi,"50,000",1700 sq.ft,Fully furnished,Ratna J, Pool  •  Gym  •  Lift  •  Parking,
+3,Flat,Kondapur,"55,000",1750 sq.ft,Fully furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Kondapur,"25,000",550 sq.ft,Fully furnished,Harika Properties, Lift  •  Water Supply,
+2,Flat,Madhapur,"35,000",1207 sq.ft,Semi furnished,N Chiranjeevi, Lift  •  Parking  •  Power Backup,
+2,Flat,Madhapur,"35,000",1204 sq.ft,Semi furnished,N Chiranjeevi, Lift  •   Parking  •  Power Backup  •  Water Supply,
+1,Flat,Kondapur,"28,000",690 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Grocery Stores  •  Close to Bus Stop
+1,Flat,Hafeezpet,"22,500",650 sq.ft,Fully furnished,Shreyans,, 24x7 Security  •  Close to Grocery Stores  •  Close to Mall  •  Close to Hospital
+1,Flat,Kondapur,"17,000",795 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Jain Temple
+2,Flat,Kondapur,"33,000",1300 sq.ft,Semi furnished,Harika Properties,, 24x7 Security  •  ATM  •  Close to Jain Temple  •  Close to Movie Theatres
+3,Flat,Rai Durg,"2,10,000",2595 sq.ft,Fully furnished,Srinunayak10, Pool  •  Gym  •  Lift  •  Parking,
+2,Flat,Madhapur,"29,000",1200 sq.ft,Semi furnished,Kalyan, Lift  •  Parking  •  Power Backup  •  Water Supply,
+2,Flat,Kondapur,"28,000",1250 sq.ft,Semi furnished,Harika Properties,, 24x7 Security  •  ATM  •  Close to Jain Temple  •  Close to Movie Theatres
+1,Flat,Hafeezpet,"15,599",550 sq.ft,Semi furnished,Shreyans,, 24x7 Security  •  Close to Hospital  •  Close to Grocery Stores  •  Close to Bus Stop
+2,Flat,Madhapur,"40,000",1200 sq.ft,Fully furnished,N Chiranjeevi, Parking,
+1,Flat,Hafeezpet,"18,000",650 sq.ft,Semi furnished,Shreyans,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Mall
+1,Flat,Kondapur,"19,000",650 sq.ft,Semi furnished,Harika Properties,, 24x7 Security  •  ATM  •  Close to Movie Theatres  •  Close to Jain Temple
+3,Flat,Kondapur,"40,000",1900 sq.ft,Semi furnished,Harika Properties,, ATM  •  24x7 Security  •  Close to Jain Temple  •  Close to Movie Theatres
+1,Flat,Kondapur,"23,500",640 sq.ft,Fully furnished,Harika Properties,, 24x7 Security  •  ATM  •  Close to Jain Temple  •  Close to Movie Theatres
+1,Flat,Hafeezpet,"15,000",550 sq.ft,Semi furnished,Shreyans,, 24x7 Security  •  Close to Grocery Stores  •  Close to Mall  •  Close to Hospital
+2,Flat,Kondapur,"29,500",1150 sq.ft,Semi furnished,Shreyans,, 24x7 Security  •  Close to Grocery Stores  •  Close to Jain Temple  •  Close to Mall
+2,Flat,Hafeezpet,"28,000",1130 sq.ft,Semi furnished,Shreyans, Lift  •  Parking  •  Power Backup  •  Pet Allowed,
+1,Flat,Kondapur,"21,000",550 sq.ft,Fully furnished,Shreyans,, 24x7 Security  •  Close to Hospital  •  Close to Grocery Stores  •  Close to Mall
+2,Flat,Serilingampally,"29,000",1150 sq.ft,Semi furnished,Shreyans,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Mall
+2,Flat,Gachibowli,"32,000",1350 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  Close to Jain Temple  •  Close to Mall  •  Closer to Pharmacy
+3,Flat,Kondapur,"55,000",1800 sq.ft,Fully furnished,Harika Properties,, 24x7 Security  •  ATM  •  Close to Jain Temple  •  Close to Movie Theatres
+1,Flat,Hafeezpet,"23,500",650 sq.ft,Fully furnished,Shreyans,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Mall
+2,Flat,Kondapur,"28,000",1250 sq.ft,Semi furnished,Harika Properties,, 24x7 Security  •  ATM  •  Close to Jain Temple  •  Close to Movie Theatres
+2,Flat,Kothaguda,"28,000",1200 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Bus Stop  •  Close to Movie Theatres
+2,Flat,Kondapur,"30,000",1200 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Mall
+2,Flat,Kondapur,"30,000",1200 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Bus Stop  •  Close to Hospital
+1,Flat,Kondapur,"23,000",650 sq.ft,Fully furnished,Harika Properties,, ATM  •  24x7 Security  •  Close to Jain Temple  •  Close to Movie Theatres
+2,Flat,Kondapur,"26,000",1100 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Hospital  •  Close to Movie Theatres  •  Close to Pubs & Restaurants
+1,Flat,Kondapur,"20,000",580 sq.ft,Semi furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Grocery Stores  •  Good Cross Ventilation
+1,Flat,Kondapur,"25,000",590 sq.ft,Fully furnished,Harsha Rentals,, Close to Bus Stop  •  Close to Grocery Stores  •  Good Cross Ventilation  •  Metro Station Proximity
+1,Flat,Kondapur,"18,000",785 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Children Play Area  •  Close to Bus Stop  •  Close to Grocery Stores
+3,Flat,Madhapur,"53,000",2200 sq.ft,Semi furnished,Srinunayak10, Lift  •  Parking  •  Power Backup  •  Pet Allowed,
+1,Flat,Madhapur,"23,000",900 sq.ft,Semi furnished,Kalyan, Lift  •  Power Backup  •  Water Supply,
+1,Flat,Madhapur,"23,000",850 sq.ft,Semi furnished,Kalyan, Lift  •  Power Backup  •  Water Supply,
+2,Flat,Madhapur,"27,000",1150 sq.ft,Semi furnished,Kalyan, Lift  •  Parking  •  Water Supply,
+1,Flat,Kondapur,"20,000",600 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  Close to Mall  •  Close to ATM  •  Close to Bus Stop
+1,Flat,Kondapur,"26,000",690 sq.ft,Fully furnished,Harsha Rentals,, Close to Bus Stop  •  Close to Grocery Stores  •  Good Cross Ventilation  •  Security Guards
+1,Flat,Madhapur,"15,000",800 sq.ft,Un-furnished,Kalyan, Lift  •  Water Supply,
+1,Flat,Madhapur,"26,000",800 sq.ft,Fully furnished,Kalyan, Lift  •  Water Supply,
+1,Flat,Kondapur,"24,000",600 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  Children Play Area  •  Close to Grocery Stores  •  Close to Bus Stop
+1,Flat,Madhapur,"15,000",800 sq.ft,Un-furnished,Kalyan, Lift  •  Water Supply,
+2,Flat,Madhapur,"28,000",1200 sq.ft,Semi furnished,Kalyan, Lift  •  Parking  •  Power Backup  •  Water Supply,
+1,Flat,Madhapur,"16,000",700 sq.ft,Un-furnished,Kalyan, Lift  •  Water Supply,
+2,Flat,Madhapur,"30,000",1200 sq.ft,Semi furnished,Kalyan, Lift  •  Parking  •  Water Supply,
+2,Flat,Madhapur,"30,000",1300 sq.ft,Semi furnished,Kalyan, Lift  •  Parking  •  Water Supply,
+3,Flat,Madhapur,"55,000",2000 sq.ft,Semi furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Bus Stop  •  Close to Grocery Stores
+1,Flat,Madhapur,"22,000",850 sq.ft,Semi furnished,Kalyan, Lift  •  Power Backup  •  Water Supply,
+1,Flat,Madhapur,"27,000",800 sq.ft,Fully furnished,Kalyan, Water Supply,
+2,Flat,Madhapur,"30,000",1200 sq.ft,Semi furnished,Kalyan, Lift  •  Parking  •  Power Backup  •  Water Supply,
+2,Flat,Madhapur,"30,000",1300 sq.ft,Semi furnished,Kalyan, Lift  •  Parking  •  Water Supply,
+1,Flat,Madhapur,"30,000",800 sq.ft,Fully furnished,Kalyan, Lift  •  Power Backup  •  Water Supply,
+1,Flat,Madhapur,"26,000",800 sq.ft,Fully furnished,Kalyan, Lift  •  Power Backup  •  Water Supply,
+1,Flat,Madhapur,"22,000",800 sq.ft,Semi furnished,Kalyan, Lift  •  Power Backup  •  Water Supply,
+2,Flat,Madhapur,"31,000",1200 sq.ft,Semi furnished,Kalyan, Lift  •  Parking  •  Water Supply,
+1,Flat,Madhapur,"18,000",750 sq.ft,Semi furnished,Kalyan, Lift  •  Water Supply,
+2,Flat,Madhapur,"33,000",1200 sq.ft,Semi furnished,Kalyan, Lift  •  Parking  •  Power Backup  •  Water Supply,
+1,Flat,Madhapur,"20,000",800 sq.ft,Semi furnished,Kalyan, Lift  •  Water Supply,
+1,Flat,Hafeezpet,"18,000",650 sq.ft,Semi furnished,Tirupathi Rentals,, 24x7 Security  •  East Facing Living Room  •  Lift  •  Power Backup
+1,Flat,Kondapur,"20,999",700 sq.ft,Fully furnished,M R RENTALS,, 24 Hours Concierge  •  24x7 Security  •  Close to ATM  •  Close to Bus Stop
+2,Flat,Madhapur,"37,999",1050 sq.ft,Fully furnished,M R RENTALS,, 24 Hours Concierge  •  24x7 Security  •  Business Center  •  Close to Grocery Stores
+2,Flat,Madhapur,"34,000",1208 sq.ft,Semi furnished,Harsha Rentals,, Close to Bus Stop  •  Close to Grocery Stores  •  Good Cross Ventilation  •  Lift
+2,Flat,Madhapur,"38,000",1301 sq.ft,Fully furnished,Harsha Rentals,, Close to Bus Stop  •  Close to Grocery Stores  •  Close to Pubs & Restaurants  •  Good Cross Ventilation
+1,Flat,Kondapur,"22,999",650 sq.ft,Fully furnished,M R RENTALS,, 24 Hours Concierge  •  24x7 Security  •  Close to Grocery Stores  •  Close to Bus Stop
+1,Flat,Madhapur,"26,000",600 sq.ft,Fully furnished,Ravi Kumar,, 24x7 Security  •  ATM  •  Close to Bus Stop  •  Close to Hospital
+3,Flat,Kondapur,"65,000",2300 sq.ft,Fully furnished,M R RENTALS,, 24 Hours Concierge  •  24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores
+2,Flat,Madhapur,"38,000",1250 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  Close to ATM  •  Close to Bus Stop  •  Close to Hospital
+1,Flat,Kondapur,"13,800",780 sq.ft,Un-furnished,Rentals Homes,, 24x7 Security  •  24 Hours Concierge  •  Close to Bus Stop  •  Close to Mall
+2,Flat,Puppalaguda,"25,000",1290 sq.ft,Un-furnished,Shubhamproperties70,, Lift  •  Closer to Pharmacy  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Madhapur,"22,000",600 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+3,Flat,Madhapur,"50,000",1888 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  Close to Grocery Stores  •  Close to Jain Temple  •  Close to Mall
+3,Flat,Kondapur,"52,000",1900 sq.ft,Fully furnished,M R RENTALS,, 24 Hours Concierge  •  24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores
+2,Flat,Ameerpet,"26,000",1212 sq.ft,Semi furnished,Prime Property,, 24x7 Security  •  Ceramic Tiles  •  Close to Bus Stop  •  Gymnasium
+1,Flat,Sanath Nagar,"11,000",600 sq.ft,Un-furnished,Prime Property,, 24 Hours Concierge  •  Business Center  •  Close to Airport  •  Close to Bus Stop
+1,Flat,Sanath Nagar,"10,600",589 sq.ft,Un-furnished,Prime Property,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Marble
+2,Flat,Sanath Nagar,"22,000",1120 sq.ft,Semi furnished,Prime Property,, 24x7 Security  •  Ceramic Tiles  •  Close to Bus Stop  •  Close to Grocery Stores
+2,Flat,Sanjeeva Reddy Nagar,"25,000",1210 sq.ft,Semi furnished,Prime Property,, ATM  •  Ceramic Tiles  •  Close to Bus Stop  •  Lift
+1,Flat,Hafeezpet,"19,000",600 sq.ft,Fully furnished,Shreyans,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Mall
+3,Flat,Kondapur,"55,000",1819 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Bus Stop  •  Close to Grocery Stores
+1,Flat,Gachibowli,"22,000",580 sq.ft,Fully furnished,Harsha Rentals,, Close to Grocery Stores  •  Close to Bus Stop  •  Good Cross Ventilation  •  Metro Station Proximity
+3,Flat,Kondapur,"55,000",1891 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Bus Stop  •  Good Cross Ventilation
+2,Flat,Gachibowli,"35,000",1233 sq.ft,Semi furnished,Harsha Rentals,, Close to Bus Stop  •  Close to Grocery Stores  •  Good Cross Ventilation  •  Lift
+,Flat,Madhapur,"20,000",500 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  ATM  •  Close to Bus Stop  •  Close to Hospital
+2,Flat,Madhapur,"35,000",1210 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Bus Stop  •  Close to Grocery Stores
+3,Flat,Puppalaguda,"40,000",1805 sq.ft,Semi furnished,Shubhamproperties70,, Security Guards  •  Power Backup  •  Lift  •  24x7 Security
+1,Flat,Madhapur,"26,000",640 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Bus Stop  •  Close to Grocery Stores
+2,Flat,Madhapur,"38,000",1200 sq.ft,Fully furnished,M R RENTALS,, 24 Hours Concierge  •  24x7 Security  •  Close to Bus Stop  •  Close to ATM
+1,Flat,Kondapur,"24,999",700 sq.ft,Fully furnished,M R RENTALS,, 24 Hours Concierge  •  Aerobics Room  •  Close to Grocery Stores  •  Close to Bus Stop
+1,Flat,Kondapur,"26,999",750 sq.ft,Fully furnished,M R RENTALS,, 24 Hours Concierge  •  24x7 Security  •  Close to ATM  •  Close to Grocery Stores
+3,Flat,Shilpa Hills,"58,000",1850 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Gated Community  •  Good Cross Ventilation
+2,Flat,Puppalaguda,"30,000",1250 sq.ft,Semi furnished,Shubhamproperties70,, Power Backup  •  Rainwater Harvesting  •  Lift  •  Close to Grocery Stores
+1,Flat,Kondapur,"25,000",650 sq.ft,Fully furnished,Ram Laxman Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Bus Stop  •  Close to Hospital
+2,Flat,Gachibowli,"27,500",1240 sq.ft,Semi furnished,West Flat Rentals, Parking,
+2,Flat,Puppalaguda,"31,000",1210 sq.ft,Semi furnished,Adithya Rentals, Parking,
+2,Flat,Puppalaguda,"30,000",1200 sq.ft,Semi furnished,Adithya Rentals, Parking,
+2,Flat,Manikonda,"30,000",1200 sq.ft,Semi furnished,Adithya Rentals, Parking,
+1,Flat,Manikonda,"20,000",900 sq.ft,Semi furnished,Adithya Rentals, Parking,
+3,Flat,Kondapur,"50,000",1850 sq.ft,Fully furnished,Ram Laxman Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Bus Stop  •  Close to Hospital
+1,Flat,Kondapur,"25,000",650 sq.ft,Fully furnished,Ram Laxman Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+3,Flat,Manikonda,"38,000",1500 sq.ft,Semi furnished,Shubhamproperties70,, Gymnasium  •  Power Backup  •  Lift  •  Close to Grocery Stores
+2,Flat,Gachibowli,"28,100",1250 sq.ft,Semi furnished,West Flat Rentals, Parking,
+1,Flat,Puppalaguda,"21,000",910 sq.ft,Semi furnished,Adithya Rentals, Parking,
+2,Flat,Khaja Guda,"31,000",1210 sq.ft,Semi furnished,Adithya Rentals, Parking,
+1,Flat,Gachibowli,"21,000",910 sq.ft,Semi furnished,Adithya Rentals, Parking,
+,Flat,Kondapur,"13,000",722 sq.ft,Semi furnished,West Flat Rentals, Parking,
+1,Flat,Gachibowli,"22,000",921 sq.ft,Semi furnished,West Flat Rentals, Parking,
+2,Flat,Khaja Guda,"30,000",1200 sq.ft,Semi furnished,Adithya Rentals, Parking,
+1,Flat,Gachibowli,"20,000",900 sq.ft,Semi furnished,Adithya Rentals, Parking,
+1,Flat,Kondapur,"20,500",550 sq.ft,Fully furnished,Shreyans,, 24x7 Security  •  Close to Grocery Stores  •  Close to Mall  •  Close to Hospital
+2,Flat,Gachibowli,"26,500",1230 sq.ft,Semi furnished,West Flat Rentals, Parking,
+2,Flat,Madhapur,"26,500",1255 sq.ft,Semi furnished,West Flat Rentals, Parking,
+1,Flat,Khaja Guda,"21,000",910 sq.ft,Semi furnished,Adithya Rentals, Parking,
+1,Flat,Khaja Guda,"20,000",900 sq.ft,Semi furnished,Adithya Rentals, Parking,
+1,Flat,Puppalaguda,"20,000",900 sq.ft,Semi furnished,Adithya Rentals, Parking,
+2,Flat,Manikonda,"31,000",1210 sq.ft,Semi furnished,Adithya Rentals, Parking,
+1,Flat,Manikonda,"21,000",910 sq.ft,Semi furnished,Adithya Rentals, Parking,
+1,Flat,Gachibowli,"20,000",915 sq.ft,Semi furnished,West Flat Rentals, Parking,
+1,Flat,Gachibowli,"21,500",925 sq.ft,Semi furnished,West Flat Rentals, Parking,
+3,Flat,Kondapur,"55,000",2000 sq.ft,Fully furnished,Ram Laxman Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Jain Temple
+1,Flat,Kondapur,"23,000",715 sq.ft,Fully furnished,Ram Laxman Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Kondapur,"40,000",1260 sq.ft,Fully furnished,Ram Laxman Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+3,Flat,Kondapur,"48,000",1960 sq.ft,Fully furnished,Ram Laxman Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+3,Flat,Kondapur,"50,000",2000 sq.ft,Fully furnished,Ram Laxman Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+,Flat,Kondapur,"12,000",450 sq.ft,Semi furnished,Shreyans,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Mall
+2,Flat,Madhura Nagar,"28,000",1200 sq.ft,Un-furnished,Prime Property,, Close to Bus Stop  •  Close to Hospital  •  Day Care Center  •  Earthquake Resistant Structure
+3,Flat,Ameerpet,"32,000",1500 sq.ft,Semi furnished,Prime Property,, Amphitheatre  •  Children Play Area  •  Close to Bus Stop  •  Close to Grocery Stores
+2,Flat,Manikonda,"27,000",1100 sq.ft,Semi furnished,Shubhamproperties70,, Lift  •  Closer to Pharmacy  •  Close to Bus Stop  •  Close to Hospital
+1,Flat,Sanjeeva Reddy Nagar,"11,000",609 sq.ft,Un-furnished,Prime Property,, Ceramic Tiles  •  Children Play Area  •  Close to Airport  •  Close to ATM
+2,Flat,Kondapur,"38,000",1250 sq.ft,Fully furnished,Ram Laxman Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Kondapur,"14,500",546 sq.ft,Un-furnished,Nani,, 24x7 Security  •  Close to Bus Stop  •  Close to Hospital  •  Close to Mall
+1,Flat,Kondapur,"20,000",600 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  ATM  •  Close to Grocery Stores  •  Close to Hospital
+5,Flat,Ameerpet,"17,400",1011 sq.ft,Semi furnished,MS RENTAL SERVICE CONSULTANT,, 24x7 Security  •  Business Center  •  Close to Grocery Stores  •  Close to Bus Stop
+3,Flat,Kondapur,"57,000",2200 sq.ft,Fully furnished,M R RENTALS,, 24 Hours Concierge  •  24x7 Security  •  Badminton Court  •  Business Center
+,Flat,Kondapur,"9,500",653 sq.ft,Un-furnished,Nani,, Close to ATM  •  Close to Hospital  •  Close to Mall  •  Close to Grocery Stores
+2,Flat,Sanath Nagar,"18,000",1200 sq.ft,Semi furnished,Prime Property,, 24x7 Security  •  Ceramic Tiles  •  Close to Grocery Stores  •  Close to Hospital
+2,Flat,Hafeezpet,"22,500",1100 sq.ft,Semi furnished,SvS Consultancy,, 24x7 Security  •  ATM  •  Close to Bus Stop  •  Close to Grocery Stores
+2,Flat,Hafeezpet,"24,000",1100 sq.ft,Semi furnished,SvS Consultancy,, 24x7 Security  •  ATM  •  Close to ATM  •  Close to Bus Stop
+2,Flat,Hafeezpet,"23,111",1100 sq.ft,Semi furnished,SvS Consultancy,, 24x7 Security  •  ATM  •  Close to ATM  •  Close to Bus Stop
+1,Flat,Kondapur,"15,111",800 sq.ft,Semi furnished,SvS Consultancy,, 24x7 Security  •  ATM  •  Close to ATM  •  Close to Bus Stop
+2,Flat,Madhapur,"32,000",1210 sq.ft,Fully furnished,Krishna Home Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Madhapur,"24,000",600 sq.ft,Fully furnished,Krishna Home Rentals,, 24x7 Security  •  Close to Hospital  •  Close to Grocery Stores  •  Close to Bus Stop
+3,Flat,Madhapur,"50,000",1820 sq.ft,Fully furnished,Krishna Home Rentals,, 24x7 Security  •  Close to Grocery Stores  •  Close to Hospital  •  Close to Mall
+2,Flat,Madhapur,"33,000",1230 sq.ft,Fully furnished,Krishna Home Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+1,Flat,Madhapur,"18,000",600 sq.ft,Un-furnished,Ravi Kumar,, 24x7 Security  •  Close to Hospital  •  Close to Mall  •  Closer to Pharmacy
+1,Flat,Madhapur,"20,000",500 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  Close to Jain Temple  •  Close to Mall  •  Closer to Pharmacy
+1,Flat,Kondapur,"18,000",900 sq.ft,Semi furnished,SvS CONSULTANCY,, 24x7 Security  •  ATM  •  Close to Bus Stop  •  Close to Grocery Stores
+1,Flat,Kondapur,"15,000",800 sq.ft,Semi furnished,SvS CONSULTANCY,, 24x7 Security  •  ATM  •  Close to ATM  •  Close to Bus Stop
+2,Flat,Hafeezpet,"24,011",1100 sq.ft,Semi furnished,SvS CONSULTANCY,, 24x7 Security  •  ATM  •  Close to Bus Stop  •  Close to Grocery Stores
+2,Flat,Hafeezpet,"23,111",1100 sq.ft,Semi furnished,SvS CONSULTANCY,, 24x7 Security  •  ATM  •  Close to ATM  •  Close to Bus Stop
+1,Flat,Madhapur,"22,000",500 sq.ft,Semi furnished,Ravi Kumar,, 24x7 Security  •  Close to ATM  •  Close to Mall  •  Closer to Pharmacy
+1,Flat,Ameerpet,"12,400",685 sq.ft,Semi furnished,Pasha,, 24x7 Security  •  Close to Bus Stop  •  Lift  •  Metro Station Proximity
+2,Flat,Madhapur,"38,000",1274 sq.ft,Fully furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Bus Stop  •  Close to Grocery Stores
+2,Flat,Hafeezpet,"22,666",1100 sq.ft,Semi furnished,SvS CONSULTANCY,, 24x7 Security  •  ATM  •  Close to ATM  •  Close to Bus Stop
+1,Flat,Kondapur,"17,055",800 sq.ft,Semi furnished,SvS CONSULTANCY,, 24x7 Security  •  ATM  •  Close to ATM  •  Close to Bus Stop
+2,Flat,Kondapur,"31,000",1250 sq.ft,Semi furnished,SvS CONSULTANCY,, 24x7 Security  •  ATM   •  Close to ATM  •  Close to Bus Stop
+1,Flat,Kondapur,"12,500",1432 sq.ft,Un-furnished,Nani,, Close to Hospital  •  Close to Bus Stop  •  Close to Mall
+2,Flat,Kondapur,"24,000",1532 sq.ft,Semi furnished,Nani,, 24x7 Security  •  Close to Bus Stop  •  Close to Hospital  •  Close to Mall
+2,Flat,Kondapur,"27,000",1563 sq.ft,Semi furnished,Nani,, Close to Bus Stop  •  Close to Hospital  •  Close to Mall  •  Close to Railway Station
+1,Flat,Kondapur,"14,000",800 sq.ft,Semi furnished,SvS CONSULTANCY,, 24x7 Security  •  ATM  •  Close to ATM  •  Close to Bus Stop
+1,Flat,Hafeezpet,"16,111",800 sq.ft,Semi furnished,SvS CONSULTANCY,, 24x7 Security  •  ATM  •  Close to ATM  •  Close to Bus Stop
+2,Flat,Kondapur,"27,500",1572 sq.ft,Semi furnished,Nani,, 24x7 Security  •  Close to Bus Stop  •  Close to Hospital  •  Close to Mall
+3,Flat,Kondapur,"45,500",1954 sq.ft,Semi furnished,Nani,, 24x7 Security  •  Close to Bus Stop  •  Close to Hospital  •  Close to Mall
+1,Flat,Kondapur,"14,000",153 sq.ft,Un-furnished,Nani,, 24x7 Security  •  Close to ATM  •  Close to Hospital  •  Close to Mall
+1,Flat,Kondapur,"17,500",800 sq.ft,Semi furnished,Shri Krishna Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Jain Temple
+1,Flat,Kondapur,"20,000",520 sq.ft,Semi furnished,Harsha Rentals,, 24x7 Security  •  Children Play Area  •  Close to Grocery Stores  •  Close to Bus Stop
+2,Flat,Kondapur,"30,000",1250 sq.ft,Semi furnished,SvS CONSULTANCY,, 24x7 Security  •  ATM  •  Close to Bus Stop  •  Close to Grocery Stores
+1,Flat,Hafeezpet,"18,000",800 sq.ft,Semi furnished,SvS CONSULTANCY,, 24x7 Security  •  ATM  •  Close to ATM  •  Close to Bus Stop
+2,Flat,Kondapur,"32,000",1150 sq.ft,Semi furnished,SvS CONSULTANCY,, 24x7 Security  •  ATM   •  Close to Bus Stop  •  Close to Grocery Stores
+1,Flat,Kondapur,"15,000",800 sq.ft,Semi furnished,SvS CONSULTANCY,, 24x7 Security  •  ATM  •  Close to ATM  •  Close to Bus Stop
+3,Flat,Kondapur,"45,000",1950 sq.ft,Fully furnished,Ram Laxman Rentals,, 24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores  •  Close to Hospital
+3,Flat,Kondapur,"60,000",2300 sq.ft,Fully furnished,M R RENTALS,, 24 Hours Concierge  •  24x7 Security  •  Close to Bus Stop  •  Close to Grocery Stores
+2,Flat,Hafeezpet,"22,011",1100 sq.ft,Semi furnished,SvS Consultancy,, 24x7 Security  •  ATM  •  Close to ATM  •  Close to Bus Stop
